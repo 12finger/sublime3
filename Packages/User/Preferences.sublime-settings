@@ -1,0 +1,73 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+
+	"show_full_path": true,
+
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"main.min.js",
+		"basic.min.js",
+		".DS_Store",
+		"._*",
+		"bower_components/*",
+		".git/*",
+		"build/*",
+		"app/assets/fonts/*",
+		"log/*",
+		"public/*",
+		"tmp/*",
+		"app/assets/javascripts/libs/*"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"node_modules",
+		"bower_components",
+		".git",
+		"build",
+		"app/assets/fonts",
+		"app/assets/images",
+		"log",
+		"public",
+		"tmp",
+		"tmp/class-*",
+		"tmp/es_*",
+		"tmp/jshinter*",
+		"tmp/replace_*",
+		"tmp/static_compiler*",
+		"tmp/template_compiler*",
+		"tmp/tree_merger*",
+		"tmp/coffee_script*",
+		"tmp/concat-tmp*",
+		"tmp/export_tree*",
+		"tmp/sass_compiler*"
+	],
+	"font_size": 12.0,
+	"git_binary": "/usr/bin/git",
+	"ignored_packages":
+	[
+		"Vintage",
+		"Color Highlighter",
+		"SideBarGit",
+		"TrailingSpaces",
+		"LiveReload"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"show_full_path": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+
+
+
+
+
+
+
+}

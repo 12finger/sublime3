@@ -2,6 +2,11 @@
 	"installed_packages":
 	[
 		"Better CoffeeScript",
+		"GitGutter",
+		"Handlebars",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
 		"Theme - Soda SolarizedDark"
 	]
 }

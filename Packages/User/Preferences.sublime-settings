@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"file_exclude_patterns":
 	[
@@ -44,20 +44,21 @@
 		"tmp/export_tree*",
 		"tmp/sass_compiler*"
 	],
-	"font_size": 12.0,
+	"font_size": 14,
 	"git_binary": "/usr/bin/git",
 	"ignored_packages":
 	[
-		"Color Highlighter",
-		"SideBarGit",
 		"TrailingSpaces",
-		"LiveReload",
-		"Vintage"
+		"SideBarGit",
+		"Color Highlighter",
+		"Vintage",
+		"LiveReload"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
 	"show_full_path": true,
 	"tab_size": 2,
+	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }

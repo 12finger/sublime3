@@ -1,12 +1,22 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
 		"GitGutter",
 		"Handlebars",
+		"Package Control",
 		"Ruby Slim",
 		"Sass",
 		"SideBarEnhancements",
-		"Theme - Soda SolarizedDark"
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray"
 	]
 }

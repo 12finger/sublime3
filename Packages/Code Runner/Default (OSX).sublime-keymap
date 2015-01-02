@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+r"], "command": "run_code" }
+  , { "keys": ["ctrl+shift+r"], "command": "run_code_custom" }
+]

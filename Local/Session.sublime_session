@@ -1,14 +1,25 @@
 {
 	"folder_history":
 	[
+		"/Users/patze/Sites/mnd/network-backend",
+		"/Users/patze/Sites/dev/madels",
+		"/Users/patze/Sites/mnd/compass",
+		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/sidekiq-pro-1.9.1",
+		"/Users/patze/Sites/mnd/mynewsdesk",
+		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/kaminari-0.16.1",
+		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/activesupport-4.1.0",
+		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/rails-4.1.0",
+		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/rake-10.3.2",
+		"/Users/patze/Sites/bs",
+		"/Users/patze/github-coding/spotify-mp3-downloader",
 		"/Users/patze/Sites/mnd/network-frontend"
 	],
 	"last_version": 3065,
-	"last_window_id": 31,
+	"last_window_id": 193,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 665.0,
+		"new_window_height": 752.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -16,112 +27,140 @@
 				"selected_items":
 				[
 					[
-						"de",
-						"deleteLabel"
-					],
-					[
 						"co",
-						"contact"
-					],
-					[
-						"fi",
-						"filterByWord"
-					],
-					[
-						"fil",
-						"filterBy"
-					],
-					[
-						"pro",
-						"property"
+						"controller"
 					],
 					[
 						"con",
-						"controllers"
+						"contacts"
 					],
 					[
-						"A",
-						"activities"
+						"di",
+						"displayName"
 					],
 					[
-						"bak",
-						"background-color"
+						"na",
+						"nameWithApiary"
 					],
 					[
-						"f",
-						"firstObject"
+						"set_",
+						"set_template"
 					],
 					[
-						"to",
-						"toLeft"
+						"pa",
+						"parse_input"
 					],
 					[
-						"tr",
-						"transition"
-					],
-					[
-						"infl",
-						"influencers"
-					],
-					[
-						"fr",
-						"freshSearch"
-					],
-					[
-						"inf",
-						"influencers"
-					],
-					[
-						"influenc",
-						"influencer"
-					],
-					[
-						"inc",
-						"influencer"
-					],
-					[
-						"rel",
-						"relativePath"
+						"ap",
+						"api_url"
 					],
 					[
 						"re",
-						"return"
+						"response"
 					],
 					[
-						"cur",
-						"currentRouteName"
+						"ch",
+						"channel_params"
 					],
 					[
-						"margi",
-						"margin-top:   (property)"
+						"xml",
+						"xml_input"
 					],
 					[
-						"bac",
-						"background-color"
+						"api",
+						"api_key"
 					],
 					[
-						"e",
-						"element"
+						"C",
+						"Channel"
 					],
 					[
-						"mar",
-						"margin"
-					],
-					[
-						"mi",
-						"middle  (value)"
-					],
-					[
-						"mh",
-						"min-height"
-					],
-					[
-						"lo",
-						"log"
+						"min",
+						"min-width"
 					],
 					[
 						"marg",
+						"margin-bottom"
+					],
+					[
+						"wi",
+						"width:   (property)"
+					],
+					[
+						"upd",
+						"finalize_update"
+					],
+					[
+						"mi",
+						"migrate"
+					],
+					[
+						"tr",
+						"transparent  (value)"
+					],
+					[
+						"pos",
+						"posts-index"
+					],
+					[
+						"text",
+						"textfield"
+					],
+					[
+						"ov",
+						"ovx	overflow-x"
+					],
+					[
+						"over",
+						"overflow-y"
+					],
+					[
+						"fade",
+						"fadeOut"
+					],
+					[
+						"mar",
 						"margin:   (property)"
+					],
+					[
+						"po",
+						"post-single"
+					],
+					[
+						"br",
+						"bdrz	border-radius"
+					],
+					[
+						"col",
+						"collection_item"
+					],
+					[
+						"fil",
+						"fileupload"
+					],
+					[
+						"app",
+						"application"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"coll",
+						"collection_items"
+					],
+					[
+						"si",
+						"sign_up"
+					],
+					[
+						"td",
+						"td:u	text-decoration:underline"
+					],
+					[
+						"bo",
+						"bootstrap"
 					],
 					[
 						"cr",
@@ -138,10 +177,6 @@
 					[
 						"la",
 						"landing"
-					],
-					[
-						"pos",
-						"post_project"
 					],
 					[
 						"lin",
@@ -166,10 +201,6 @@
 					[
 						"Co",
 						"Country"
-					],
-					[
-						"po",
-						"post_opportunity"
 					],
 					[
 						"op",
@@ -216,6 +247,10 @@
 						"fl:l	float:left"
 					],
 					[
+						"to",
+						"to_s"
+					],
+					[
 						"mr",
 						"mr:a	margin-right:auto"
 					],
@@ -244,12 +279,12 @@
 						"update_parallax"
 					],
 					[
-						"pa",
-						"padding-top"
-					],
-					[
 						"sign",
 						"sign-up-email"
+					],
+					[
+						"fi",
+						"firstrun"
 					],
 					[
 						"yp",
@@ -286,6 +321,10 @@
 					[
 						"l",
 						"log"
+					],
+					[
+						"bac",
+						"background"
 					],
 					[
 						"conta",
@@ -332,16 +371,12 @@
 						"right:   (property)"
 					],
 					[
-						"col",
-						"color:   (property)"
+						"margi",
+						"margin-top"
 					],
 					[
 						"inlin",
 						"inline-block  (value)"
-					],
-					[
-						"wi",
-						"width"
 					],
 					[
 						"back",
@@ -354,10 +389,6 @@
 					[
 						"i",
 						"inline-block"
-					],
-					[
-						"text",
-						"text-decoration:   (property)"
 					],
 					[
 						"top",
@@ -396,6 +427,10 @@
 						"attr_accessor"
 					],
 					[
+						"cur",
+						"current_user"
+					],
+					[
 						"foto",
 						"fotos"
 					],
@@ -418,6 +453,10 @@
 					[
 						"req",
 						"require"
+					],
+					[
+						"lo",
+						"login"
 					],
 					[
 						"test",
@@ -472,6 +511,10 @@
 						"howManyMarkersToFit2"
 					],
 					[
+						"de",
+						"decremented"
+					],
+					[
 						"new",
 						"newbounds"
 					],
@@ -492,196 +535,84 @@
 						"allmarkersjson"
 					],
 					[
-						"di",
-						"display-all-button"
-					],
-					[
 						"dis",
 						"display"
-					],
-					[
-						"s",
-						"sidebar"
-					],
-					[
-						"ch",
-						"changeMonth"
-					],
-					[
-						"en",
-						"endCheck"
-					],
-					[
-						"els",
-						"else"
-					],
-					[
-						"hav",
-						"haveStart"
-					],
-					[
-						"end",
-						"endDateDigit"
-					],
-					[
-						"sta",
-						"startDate"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 400.0,
 				"selected_items":
 				[
 					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Indentation: Convert to Spaces"
-					],
-					[
 						"pack",
-						"Package Control: Disable Package"
-					],
-					[
-						"de",
-						"File: Delete"
-					],
-					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"sli",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"slim",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"mo",
-						"File: Move"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"du",
-						"File: Duplicate"
-					],
-					[
-						"sl",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"packlist",
-						"Package Control: List Packages"
-					],
-					[
-						"blam",
-						"Git: Blame"
-					],
-					[
-						"bla",
-						"Set Syntax: Git Blame"
-					],
-					[
-						"packe",
-						"Package Control: Disable Package"
-					],
-					[
-						"hand",
-						"Set Syntax: Handlebars"
-					],
-					[
-						"packinstall",
-						"Package Control: Install Package"
-					],
-					[
-						"coffe",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"ja",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"del",
-						"File: Delete"
-					],
-					[
-						"rena",
-						"File: Rename"
-					],
-					[
-						"dele",
-						"File: Delete"
-					],
-					[
-						"dup",
-						"File: Duplicate"
-					],
-					[
-						"git bl",
-						"Git: Blame"
-					],
-					[
-						"gi",
-						"Git: Blame"
+						"Package Control: Remove Package"
 					],
 					[
 						"inst",
 						"Package Control: Install Package"
 					],
 					[
-						"mov",
-						"File: Move"
+						"ins",
+						"Package Control: Install Package"
 					],
 					[
-						"lame",
-						"Git: Blame"
+						"ren",
+						"File: Rename"
 					],
 					[
-						"blame",
-						"Git: Blame"
+						"de",
+						"File: Delete"
 					],
 					[
-						"css",
-						"Set Syntax: CSS"
+						"du",
+						"File: Duplicate"
 					],
 					[
-						"ham",
-						"Set Syntax: Ruby Haml"
+						"java",
+						"Set Syntax: JavaScript"
 					],
 					[
-						"coff",
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"coffe",
 						"Set Syntax: CoffeeScript"
 					],
 					[
-						"about",
+						"app",
+						"Git: Stash Apply"
+					],
+					[
+						"",
 						"About"
+					],
+					[
+						"re",
+						"File: Rename"
 					],
 					[
 						"syn ru",
 						"Set Syntax: Ruby"
 					],
 					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
 						"syn js",
 						"Set Syntax: JavaScript"
+					],
+					[
+						"blam",
+						"Git: Blame"
 					],
 					[
 						"install",
@@ -692,8 +623,16 @@
 						"Copy File Path"
 					],
 					[
+						"bla",
+						"Git: Blame"
+					],
+					[
 						"team",
 						"RubyTest: Generate Rails Migration"
+					],
+					[
+						"rena",
+						"File: Rename"
 					],
 					[
 						"insta",
@@ -710,17 +649,13 @@
 					[
 						"git",
 						"Package Control: Install Package"
-					],
-					[
-						"",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 449.0
+				"width": 457.0
 			},
 			"console":
 			{
-				"height": 125.0,
+				"height": 514.0,
 				"history":
 				[
 				]
@@ -736,153 +671,161 @@
 			},
 			"file_history":
 			[
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/index.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/edit.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/tests/unit/views/social-media-profile-row-test.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/contacts.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/base.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/app.scss",
-				"/Users/patze/Sites/mnd/network-frontend/dist/assets/test-support.css",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/select-control-group.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/search-field.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-project",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/search-field.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace",
-				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/patze/.rvm/gems/ruby-2.1.2/gems/grooveshark-0.2.11/lib/grooveshark/client.rb",
-				"/Users/patze/Sites/mnd/network-frontend/.gitignore",
-				"/Users/patze/Sites/mnd/network-frontend/bower_components/mnd-bootstrap/src/mnd-bootstrap/_variables.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/label.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/label.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/person/image.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/config/environment.js",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/bower.json",
-				"/Users/patze/Sites/mnd/network-frontend/Brocfile.js",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/new-and-edit-contact-mixin.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers/show.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/note-textarea-edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/input-control-group.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/components/dropdown-select.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/input-control-group.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/edit.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/contact-list-route.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/person.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/application.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/router.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/new.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/imports/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/google-analytics.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/pressroom.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/influencer.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/app.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/tests/helpers/start-app.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/application.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/person.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/adapters/application.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/result.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/search.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/info.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/pr.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/index.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/show.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/activity.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/activities.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/MURXpressroom.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/avatar.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencer-row.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/note-textarea.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/tests/unit/components/dropdown-select-test.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/activities.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/bootstrap-fixes.scss",
-				"/Users/patze/Sites/mnd/network-frontend/package.json",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/note-textarea.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/components/dropdown-select.emblem",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/CodeRunner/coderunner.py",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/CodeRunner/Default (OSX).sublime-keymap",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/patze/Dropbox/js learning sublime.js",
+				"/Users/patze/Dropbox/ruby learning pickaxe examples.rb",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/patze/Sites/mnd/mynewsdesk/app/controllers/admin/report/marketing_controller.rb",
 				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/patze/Desktop/app/controllers/person/activities.coffee",
-				"/Users/patze/Desktop/app/templates/person/activities.emblem",
+				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts/label-search.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/models/contact.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts/row.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/edit.hbs",
+				"/Users/patze/Sites/mnd/network-frontend/app/routes/imports/import.coffee",
 				"/Users/patze/Sites/mnd/network-frontend/app/adapters/compass.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/serializers/activity.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/activities.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/activities-row.coffee",
-				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contact/index.coffee",
-				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/log.sublime-snippet",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/note.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/social-media-profile.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/input-control-group.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/person/avatar.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/transition.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/dist/assets/network-frontend.css",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/show.hbs",
-				"/Users/patze/Library/Application Support/com.fournova.Tower2/66d2c4856f9b689fc259c8507edbf27e/trial.plist",
-				"/Users/patze/Sites/mnd/network-frontend/mypatch.patch",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/social-media-profile-row.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/show.hbx",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/show.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/labels.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/duplicate-check.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/imports/import.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/base.sass",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/influencer-row.hbs",
 				"/Users/patze/Sites/mnd/network-frontend/app/controllers/imports/import.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/avatar.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/person-actions-controller.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/duplicate-check.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/avatar.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/activities.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/contacts.sass",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/influencer.sass",
-				"/Users/patze/Sites/mnd/network-frontend/vendor/ember-infinite-scroll/infinite_scroll.js",
-				"/Users/patze/Sites/patzebroc/network-frontend/app/app.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/infinite-scroll-view.coffee"
+				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts/search.coffee",
+				"/Users/patze/Sites/mnd/compass/Gemfile",
+				"/Users/patze/Sites/mnd/network-frontend/app/components/contact-attribute-row.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/router.coffee",
+				"/Users/patze/Desktop/emberrrrr",
+				"/Users/patze/Sites/mnd/network-frontend/app/views/note-row.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/index.hbs",
+				"/Users/patze/Sites/mnd/network-frontend/app/models/csv-import.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/edit.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/mixins/contact-list-controller.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/controllers/labels/index.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/models/social-media-profile.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/models/note.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/adapters/tag.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/adapters/influencer.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/adapters/application.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/models/influencer.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-project",
+				"/Users/patze/Sites/mnd/network-frontend/app/transforms/array.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/routes/labels.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/search.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts/label.coffee",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.emblem",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/table.hbs",
+				"/Users/patze/Sites/mnd/network-frontend/package.json",
+				"/Users/patze/Sites/mnd/network-frontend/bower.json",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.hbs",
+				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.emble",
+				"/Users/patze/Sites/mnd/network-frontend/dist/assets/vendor.js",
+				"/Users/patze/Sites/mnd/network-frontend/vendor/ember/ember.prod.js",
+				"/Users/patze/Sites/mnd/network-frontend/app/app.coffee",
+				"/Users/patze/.gitignore",
+				"/Users/patze/Sites/dev/ron/.gitignore",
+				"/Users/patze/.gitconfig",
+				"/Users/patze/Sites/dev/ron/app/views/channels/_form.html.haml",
+				"/Users/patze/Sites/dev/ron/config/environments/development.rb",
+				"/Users/patze/Sites/dev/ron/app/views/channels/show.html.haml",
+				"/Users/patze/Sites/dev/ron/app/models/channel.rb",
+				"/Users/patze/Sites/dev/ron/config/environments/production.rb",
+				"/Users/patze/Sites/dev/ron2/config/database.yml",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/api.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/channels/index.html.haml",
+				"/Users/patze/Sites/dev/ron/app/models/user.rb",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/application.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/devise/sessions/new.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/devise/registrations/new.html.haml",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/api/config/mixins/_mixins.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/app/overrides/framework_and_overrides.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/app/modules/_channels.sass",
+				"/Users/patze/Sites/dev/ron/vendor/assets/javascripts/.keep",
+				"/Users/patze/Sites/dev/ron/app/views/devise/registrations/MUXXnew.html.erb",
+				"/Users/patze/Sites/dev/ron/app/views/devise/registrations/new.html.erb",
+				"/Users/patze/Sites/dev/ron/app/views/home/channels.html.haml",
+				"/Users/patze/Sites/dev/ron/app/assets/javascripts/application.js",
+				"/Users/patze/Sites/dev/ron/app/controllers/application_controller.rb",
+				"/Users/patze/Downloads/css-ellipses/multiline-ellipsis.scss",
+				"/Users/patze/Sites/dev/ron/app/assets/javascripts/main/channel_show.js.coffee",
+				"/Users/patze/Sites/dev/ron/app/assets/javascripts/api.js",
+				"/Users/patze/Sites/dev/ron/config/initializers/assets.rb",
+				"/Users/patze/Sites/dev/ron/app/assets/javascripts/main/channels.js.coffee",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/api.css.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/api/_config/vendor/owl.carousel.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/api/_config/vendor/owl.carousel.css",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/api/modules/_channels.sass",
+				"/Users/patze/Sites/dev/ron/db/migrate/20140709202057_add_river_url_to_channel.rb",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/layouts/_page.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/modules/_channels.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/application.css.sass",
+				"/Users/patze/Sites/dev/ron/Gemfile",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/_messages.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/_utility_links.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/channels/edit.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/api/hello.haml",
+				"/Users/patze/Sites/dev/ron/config/initializers/inflections.rb",
+				"/Users/patze/Sites/dev/ron/config/application.rb",
+				"/Users/patze/Sites/dev/ron/db/migrate/20140708232831_add_api_key_to_channel.rb",
+				"/Users/patze/Sites/dev/ron/config/initializers/simple_form.rb",
+				"/Users/patze/Sites/dev/ron/db/migrate/20140708182509_add_user_id_to_channel.rb",
+				"/Users/patze/Sites/dev/ron/app/models/channels.rb",
+				"/Users/patze/Sites/dev/ron/app/views/home/welcome.html.haml",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/modules/_navbar.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/modules/_login.sass",
+				"/Users/patze/Sites/dev/ron/db/migrate/20140708153415_channels.rb",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/_basic_links.html.haml",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/_overrides/framework_and_overrides.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/javascripts/main/alerts.js.coffee",
+				"/Users/patze/Sites/dev/aor/config/routes.rb",
+				"/Users/patze/Sites/dev/ron/app/controllers/home_controller.rb",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/_navigation.html.haml",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/globals/_misc.sass",
+				"/Users/patze/Sites/dev/ron/app/assets/stylesheets/globals/_typography.sass",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/_navigation_links.html.haml",
+				"/Users/patze/Sites/dev/ron/app/views/layouts/application.html.erb",
+				"/Users/patze/Sites/dev/ron/app/views/home/welcome.haml",
+				"/Users/patze/Sites/ngseed/angular-seed/app/js/app.js",
+				"/Users/patze/Sites/ngseed/angular-seed/app/js/controllers.js",
+				"/Users/patze/Sites/ngseed/angular-seed/app/js/directives.js",
+				"/Users/patze/Sites/ngseed/angular-seed/app/js/filters.js",
+				"/Users/patze/Sites/ngseed/angular-seed/app/js/services.js",
+				"/Users/patze/Sites/jo/.ruby-gemset",
+				"/Users/patze/Sites/jo/app/assets/stylesheets/home.css.scss",
+				"/Users/patze/Sites/jo/config/jo_nginx.conf",
+				"/Users/patze/Sites/jo/app/views/home/vcard.html.haml",
+				"/Users/patze/Sites/jo/app/futter.futter",
+				"/Users/patze/Sites/jo/app/assets/stylesheets/z_bootstrap_overrides_patze.css",
+				"/Users/patze/Sites/jo/app/views/layouts/application.html.haml",
+				"/Users/patze/Sites/jo/app/controllers/home_controller.rb",
+				"/Users/patze/Sites/jo/config/routes.rb",
+				"/Users/patze/Sites/jo/Capfile",
+				"/Users/patze/.rvm/gems/ruby-2.0.0-p247@artconnect/gems/capistrano-2.15.4/lib/capistrano/recipes/deploy.rb",
+				"/Users/patze/Sites/jo/config/deploy.rb",
+				"/Users/patze/Sites/jo/config/unicorn_init.sh"
 			],
 			"find":
 			{
-				"height": 25.0
+				"height": 27.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 93.0,
 				"where_history":
 				[
-					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*, -/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace",
+					"/Users/patze/Sites/mnd/mynewsdesk, -/Users/patze/Sites/mnd/network-frontend/dist/*",
 					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
 					"/Users/patze/Sites/mnd/network-frontend",
 					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
-					"/Users/patze/Sites/mnd/network-frontendBAKinterface, -/Users/patze/Sites/mnd/network-frontendBAKinterface/dist/*, -/Users/patze/Sites/mnd/network-frontendBAKinterface/vendor/*",
-					"\"/Users/patze/Sites/mnd/network-frontendBAKinterface, -/Users/patze/Sites/mnd/network-frontendBAKinterface/dist/*, -/Users/patze/Sites/mnd/network-frontendBAKinterface/vendor/*\"",
-					"/Users/patze/Sites/fontshop",
-					"",
-					"/Users/patze/Sites/fontshop",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/mnd/network-frontend,-/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/dist",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/dev/ron",
+					"/Users/patze/Sites/jo",
 					"/Users/patze/Sites/artconnect",
 					"/Users/patze/Sites/artconnect/app/views",
 					"/Users/patze/Sites/artconnect",
@@ -895,134 +838,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"find inf",
-					"find influ",
-					"selectize",
-					"ASSET_URL",
-					"cloudinar",
-					"cou",
-					"country",
-					"addlabel",
-					"createRecord",
-					"addob",
-					"setti",
-					"settime",
-					"label",
-					"parent",
-					"controllerfor",
-					"newAndEditContactMixin",
-					"alllabels",
-					"labels:",
-					"pushobj",
-					"hasmany",
-					"selected",
-					"label",
-					"createLabel",
-					"=\"",
-					"Social Media Accounts",
-					"tags / labels",
-					"is_new",
-					"save:",
-					"hans",
-					"edit",
-					"edit:",
-					"newcontact:",
-					"showSearch",
-					"geht",
-					"geht wa",
-					"newAndEditContactMixin",
-					"canceledit",
-					"test",
-					"ttesttesttesttesttesttesttesttesttes",
-					"createRecord",
-					"newContact",
-					"new cont",
-					"find",
-					"outlet ac",
-					"startApp",
-					"reopen",
-					"app",
-					"gogo",
-					"actions:",
-					"transitiontor",
-					"find",
-					"persistedSocialMediaProfiles",
-					"isNew",
-					"out	",
-					"outlet act",
-					"rendertemp",
-					"topics",
-					"rendertempl",
-					"new",
-					"templatename",
-					"<div class=\"",
-					"*.emblem",
-					".emblem",
-					"emblem",
-					"{action",
-					"action:",
-					"action",
-					"general",
-					"email",
-					".nw-infl__search",
+					"temp",
+					"tmp",
+					"var",
+					"coderunner",
+					"_temp",
 					"result",
-					"action \"asGrid\"",
-					".nw-contacts__search",
-					"btn-default",
-					"press",
-					"PrRoute",
-					"pr",
-					"please choose a",
-					"change newsroo",
-					"params",
-					"pressroom",
-					"PressroomRoute",
-					"influencer_id",
-					"contact_id",
-					"ContactRoute",
-					"applicationController",
-					"press",
-					"pressroom",
-					"/edit",
-					"view",
-					"save:",
-					"cancel",
-					"toggle",
-					"backButtonVisible",
-					"remove",
-					"fadeIn",
-					"fadein",
-					"hide(",
+					"puts",
+					"error",
+					"{1",
+					"ecla",
+					"definit",
+					"symbol",
+					"def say_goodnight(name)",
+					"file",
+					"do",
+					"include",
+					"super",
+					"process_network_labels",
+					"inject",
+					"selected_site",
+					"inject",
+					"bootstrap",
+					"network-backend",
+					"Compass-Adapter",
+					"Restadap",
+					"Restadaü",
+					"crossDomain",
+					"transitiontoroute",
+					"class",
+					"extends",
+					"\", \"",
+					"binding",
+					"value",
+					"valuebinding",
 					"transition",
-					"didinsert",
-					"note-textarea",
-					"didinsert",
-					"sinon",
-					"dropdown-select",
-					"note-textarea",
-					"noteErrors",
-					"dropdown-select",
-					"%div.colorStripe",
-					"\n                  %div.colorStripe",
-					"isNote",
-					"note",
-					"noterow",
-					"note-row",
-					"resetFilterByWord",
-					"duda",
-					"44",
+					"willTransition",
+					"Contact-List-Route",
+					"rsvp.",
+					"sortPropert",
+					"@get",
+					"fixtures",
+					"ds.model",
+					"cloud",
+					"web",
+					"click",
+					"gt",
+					"calculated",
+					"toggle",
+					"isnew",
+					"property('",
+					"createrecord",
+					".save()",
+					"render",
+					"partial",
+					"Ember.View.extend",
+					"Contact-Attribute-Row",
+					"ember.component",
+					"Influencer-Row",
+					"InfluencerRow",
+					"classnames",
+					"modelFor",
+					"@each",
+					"slice",
 					"filterBy",
-					"FilterBy",
-					"filterBy",
-					"FilterBy",
-					"filterBy",
-					"filterCategories",
-					"show all",
-					"dropdown",
-					"show all",
-					"cont",
-					"availableCategories",
-					"availableFilters"
+					"filterB<",
+					"arraycontroller",
+					"@get",
+					"computed.",
+					"computed.alias",
+					"computedalisa",
+					"sortAscending",
+					"arraycontroller",
+					"Ember.computed",
+					"belongsto",
+					"restadapter",
+					"notes",
+					"hasmany",
+					"compass.myne",
+					"ApplicationAdapter",
+					"@store",
+					"fixture",
+					"TagAdapter",
+					"CompassAdapter",
+					"InfluencerAdapter",
+					"CompassAdapter",
+					"rest",
+					"Ds.attr",
+					"outl",
+					"serialize",
+					"sroute",
+					"this",
+					"link-to",
+					"link_to",
+					"findby",
+					"Ember.Route.extend",
+					"compileSass",
+					"vendor.js",
+					"filter by label",
+					"filter by labe",
+					"src=",
+					"{{view",
+					"{{each",
+					"{{ each",
+					"ApplicationAdapter",
+					"model:",
+					"model",
+					"data-template",
+					".property",
+					"bind-attr",
+					"Ember.Controller.extend",
+					"NetworkFrontendENV",
+					"route",
+					"localhost",
+					"dark",
+					"puts",
+					"art",
+					".alert",
+					"are you",
+					"_blank",
+					"iframe url",
+					"ifram url",
+					"',",
+					"lato",
+					"\"",
+					"source_name",
+					"content",
+					".ellipsis",
+					"te 50%, white"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1039,27 +982,39 @@
 					"contact"
 				],
 				"reverse": false,
-				"show_context": false,
+				"show_context": true,
 				"use_buffer2": true,
 				"whole_word": false,
 				"wrap": true
 			},
 			"incremental_find":
 			{
-				"height": 25.0
+				"height": 27.0
 			},
 			"input":
 			{
 				"height": 30.0
 			},
 			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 100.0
+			},
 			"output.find_results":
 			{
 				"height": 311.0
 			},
+			"output.git":
+			{
+				"height": 94.0
+			},
+			"output.run_result":
+			{
+				"height": 216.0
+			},
 			"replace":
 			{
-				"height": 46.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1068,424 +1023,304 @@
 				"selected_items":
 				[
 					[
-						"cont",
-						"app/controllers/contacts.coffee"
-					],
-					[
-						"emb",
-						"app/templates/contact/edit.emblem"
-					],
-					[
-						"scss",
-						"app/styles/main/influencer.scss"
-					],
-					[
-						".css",
-						"app/styles/main/base.scss"
-					],
-					[
-						"bo",
-						"bower.json"
-					],
-					[
-						"contactshbs",
-						"app/templates/contacts.hbs"
-					],
-					[
-						"apptemplcontacts",
-						"app/templates/contacts.emblem"
-					],
-					[
-						"modellabel",
-						"app/models/label.coffee"
-					],
-					[
-						"contacted",
-						"app/controllers/contact/edit.coffee"
-					],
-					[
-						"bower",
-						"bower.json"
-					],
-					[
-						"edit",
-						"app/templates/contact/edit.emblem"
-					],
-					[
-						"contact-list-route",
-						"app/mixins/contact-list-route.coffee"
-					],
-					[
-						"routind",
-						"app/routes/contacts/index.coffee"
-					],
-					[
-						"contronew",
-						"app/controllers/contacts/new.coffee"
-					],
-					[
-						"appl",
-						"app/controllers/application.coffee"
-					],
-					[
-						"contacts",
-						"app/routes/contacts.coffee"
-					],
-					[
-						"new",
-						"app/routes/contacts/new.coffee"
-					],
-					[
-						"app",
-						"app/controllers/application.coffee"
-					],
-					[
-						"ro",
-						"app/router.coffee"
-					],
-					[
-						"ava",
-						"app/templates/person/avatar.emblem"
-					],
-					[
-						"notetextarea",
-						"app/views/note-textarea.coffee"
-					],
-					[
-						"personacti",
-						"app/controllers/person/activity.coffee"
-					],
-					[
-						"texta",
-						"app/templates/note-textarea.hbs"
-					],
-					[
-						"textare",
-						"app/views/note-textarea.coffee"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"textarea",
-						"app/templates/note-textarea.hbs"
-					],
-					[
 						"rout",
-						"app/router.coffee"
+						"networkFrontend/app/router.coffee"
 					],
 					[
-						"bow",
-						"bower.json"
+						"subl",
+						"mnd-nF.sublime-project"
 					],
 					[
-						"modelperso",
-						"app/models/person.coffee"
-					],
-					[
-						"pa",
-						"package.json"
-					],
-					[
-						"routecoff",
-						"app/router.coffee"
-					],
-					[
-						"infshow",
-						"app/controllers/influencers/show.coffee"
-					],
-					[
-						"ocial-media-profile-row",
-						"app/views/social-media-profile-row.coffee"
-					],
-					[
-						"show.em",
-						"app/templates/person/show.emblem"
-					],
-					[
-						"bas",
-						"app/styles/main/base.sass"
-					],
-					[
-						"broc",
-						"Brocfile.js"
-					],
-					[
-						"sea",
-						"app/templates/contacts/search-field.hbs"
+						"proje",
+						"mnd-nF.sublime-project"
 					],
 					[
 						"pac",
 						"package.json"
 					],
 					[
-						"show",
-						"app/templates/person/show.emblem"
-					],
-					[
-						"avat",
-						"app/templates/person/avatar.emblem"
-					],
-					[
-						"routes/influencers/search.",
-						"app/routes/influencers/search.coffee"
-					],
-					[
-						"index.html",
-						"app/index.html"
-					],
-					[
-						"bro",
-						"Brocfile.js"
-					],
-					[
-						"app.css",
-						"app/styles/app.scss"
-					],
-					[
-						"load-initializers",
-						"vendor/ember-load-initializers/ember-load-initializers.js"
-					],
-					[
-						"influen",
-						"app/controllers/influencers.coffee"
-					],
-					[
-						"rou",
-						"app/router.coffee"
-					],
-					[
-						"image.co",
-						"app/views/person/image.coffee"
-					],
-					[
-						"bowe",
+						"bo",
 						"bower.json"
 					],
 					[
-						"json",
-						"bower.json"
+						"pack",
+						"package.json"
 					],
 					[
-						"searc",
-						"app/controllers/influencers/search.coffee"
+						"git",
+						".gitignore"
 					],
 					[
-						"infl",
-						"app/templates/influencers/influencer-row.hbs"
+						"data",
+						"config/database.yml"
 					],
 					[
-						"application.j",
-						"/Users/patze/Sites/ff_iconz_static/build/assets/javascripts/application.js"
+						"api",
+						"app/views/layouts/api.html.haml"
+					],
+					[
+						"dev",
+						"config/environments/development.rb"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"cha",
+						"app/models/channel.rb"
+					],
+					[
+						"ch",
+						"app/models/channel.rb"
+					],
+					[
+						"chan",
+						"app/assets/stylesheets/app/modules/_channels.sass"
+					],
+					[
+						"app",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"mix",
+						"app/assets/stylesheets/api/config/mixins/_mixins.sass"
+					],
+					[
+						"ap",
+						"app/assets/javascripts/api.js"
+					],
+					[
+						"ass",
+						"config/initializers/assets.rb"
+					],
+					[
+						"asse",
+						"config/initializers/assets.rb"
 					],
 					[
 						"ge",
 						"Gemfile"
 					],
 					[
+						"inf",
+						"config/initializers/inflections.rb"
+					],
+					[
 						"gem",
 						"Gemfile"
 					],
 					[
-						"gemf",
-						"Gemfile"
+						"sim",
+						"config/initializers/simple_form.rb"
 					],
 					[
-						"app.js",
-						"app/assets/javascripts/app.js"
+						"messa",
+						"app/views/layouts/_messages.html.haml"
 					],
 					[
-						"scripts",
-						"app/views/partials/_scripts.haml"
+						"ove",
+						"app/assets/stylesheets/_overrides/framework_and_overrides.sass"
 					],
 					[
-						"footer",
-						"app/views/partials/_footer.haml"
-					],
-					[
-						"ap",
-						"config/application.rb"
-					],
-					[
-						"pro",
-						"config/deploy/production.rb"
-					],
-					[
-						"tryouts/show.haml",
-						"app/views/tryouts/show.haml"
-					],
-					[
-						"subl",
-						"fontshop.sublime-project"
+						"ro",
+						"config/routes.rb"
 					],
 					[
 						"sub",
-						"fontshop.sublime-project"
+						"jo.sublime-project"
 					],
 					[
-						"en",
-						"config/locales/en.yml"
+						"loc",
+						"Gemfile.lock"
+					],
+					[
+						"appl",
+						"app/views/layouts/application.html.haml"
+					],
+					[
+						"vc",
+						"app/views/home/vcard.html.haml"
+					],
+					[
+						"ngn",
+						"config/jo_nginx.conf"
+					],
+					[
+						"fu",
+						"app/futter.futter"
+					],
+					[
+						"ca",
+						"Capfile"
+					],
+					[
+						"dep",
+						"config/deploy.rb"
+					],
+					[
+						"mai",
+						"app/assets/javascripts/main/main.js.coffee"
+					],
+					[
+						"app_a",
+						"app/assets/javascripts/app_admin.js"
+					],
+					[
+						"main",
+						"app/assets/javascripts/main/main.js.coffee"
+					],
+					[
+						"prod",
+						"config/environments/production.rb"
+					],
+					[
+						"cap",
+						"Capfile"
+					],
+					[
+						"index",
+						"app/views/posts/index.html.haml"
+					],
+					[
+						"new",
+						"app/views/posts/new.html.haml"
+					],
+					[
+						"edit",
+						"app/views/posts/edit.html.haml"
+					],
+					[
+						"post",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"devis",
+						"app/assets/stylesheets/devise.css.scss"
+					],
+					[
+						"ut",
+						"app/views/layouts/_utility_links.html.haml"
+					],
+					[
+						"pos",
+						"app/controllers/posts_controller.rb"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"fut",
+						"app/futter.futter"
+					],
+					[
+						"patze",
+						"app/assets/stylesheets/z_bootstrap_overrides_patze.css"
+					],
+					[
+						"send",
+						"app/views/collection_items/_send_js_destroy.js.erb"
+					],
+					[
+						"uti",
+						"app/views/layouts/_utility_links.html.haml"
+					],
+					[
+						"inde",
+						"app/views/posts/index.html.haml"
+					],
+					[
+						"simpl",
+						"config/initializers/simple_form.rb"
+					],
+					[
+						"schem",
+						"db/schema.rb"
+					],
+					[
+						"form",
+						"app/views/posts/_form.html.haml"
+					],
+					[
+						"patz",
+						"app/assets/stylesheets/bootstrap_overrides_patze.css"
+					],
+					[
+						"over",
+						"app/assets/stylesheets/framework_and_overrides.css.scss"
+					],
+					[
+						"jo",
+						"jo.sublime-project"
+					],
+					[
+						"futt",
+						"app/futter.futter"
+					],
+					[
+						"da",
+						"config/database.yml"
+					],
+					[
+						"sess",
+						"app/controllers/devise/sessions_controller.rb"
 					],
 					[
 						"appli",
 						"app/views/layouts/application.html.haml"
 					],
 					[
-						"en.y",
-						"config/locales/en.yml"
+						"a/js/",
+						"app/assets/javascripts/posts.js.coffee"
 					],
 					[
-						"font_mo",
-						"app/views/modules/_font_module.haml"
+						"sche",
+						"db/schema.rb"
 					],
 					[
-						"storage",
-						"app/assets/javascripts/tryout/ng_lstorage.js"
+						"navi",
+						"app/views/layouts/_navigation.html.haml"
 					],
 					[
-						"app.c",
-						"app/assets/javascripts/tryout/app.config.js"
+						"coll",
+						"app/controllers/collections_controller.rb"
 					],
 					[
-						"lstorag",
-						"app/assets/javascripts/tryout/app_lstorage.js"
+						"colle",
+						"app/models/collection.rb"
 					],
 					[
-						"m-try",
-						"app/assets/stylesheets/modules/_m-tryout-textblock.sass"
+						"col",
+						"app/models/collection_item.rb"
 					],
 					[
-						"try/show",
-						"app/views/tryouts/show.haml"
+						"a",
+						"config/application.rb"
 					],
 					[
-						"tryo",
-						"app/controllers/tryouts_controller.rb"
+						"_form",
+						"app/views/collection_items/_form.html.haml"
 					],
 					[
-						"char",
-						"app/assets/javascripts/modules/jquery.char-countr.js"
+						"post_it",
+						"app/models/collection_item.rb"
 					],
 					[
-						"setting",
-						"app/controllers/settings_controller.rb"
+						"ho",
+						"app/controllers/home_controller.rb"
 					],
 					[
-						"fontlist.rb",
-						"lib/fontshop-core/app/models/fontlist.rb"
-					],
-					[
-						"fontlist",
-						"spec/factories/fontlists.rb"
-					],
-					[
-						"url",
-						"lib/fontshop-core/app/models/concerns/url_generatable.rb"
-					],
-					[
-						"fontlist_c",
-						"app/controllers/fontlists_controller.rb"
-					],
-					[
-						"proje",
-						"fontshop.sublime-project"
-					],
-					[
-						"input",
-						"app/assets/javascripts/views/input-icon.js"
-					],
-					[
-						"basic",
-						"app/assets/javascripts/basic.js"
-					],
-					[
-						"people/shw",
-						"app/views/people/show.html.haml"
-					],
-					[
-						"validate",
-						"app/assets/javascripts/views/form-validate.js"
-					],
-					[
-						"ketch",
-						"app/assets/javascripts/bower_components/ketchup-plugin/jquery.ketchup.validations.js"
-					],
-					[
-						"people/show",
-						"app/views/people/show.html.haml"
-					],
-					[
-						"setting/show",
-						"app/views/settings/show.html.haml"
-					],
-					[
-						"fontlist-ed",
-						"app/assets/javascripts/views/fontlist-edit.js"
-					],
-					[
-						"users",
-						"app/controllers/users_controller.rb"
+						"links.html.erb",
+						"app/views/layouts/_navigation_links.html.erb"
 					],
 					[
 						"user",
-						"app/controllers/usermailer_controller.rb"
+						"app/models/user.rb"
 					],
 					[
-						"face",
-						"app/assets/javascripts/views/facebook-connect.js"
-					],
-					[
-						"lock",
-						"Gemfile.lock"
-					],
-					[
-						"pages",
-						"app/controllers/pages_controller.rb"
-					],
-					[
-						"land",
-						"app/views/pages/landing.html.haml"
-					],
-					[
-						"about",
-						"app/views/pages/about.html.haml"
-					],
-					[
-						"head",
-						"app/views/layouts/_head.html.haml"
-					],
-					[
-						"applic",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"gl",
-						"app/assets/stylesheets/global.css.scss"
-					],
-					[
-						"globa",
-						"app/assets/javascripts/artconnect/global.js.coffee"
-					],
-					[
-						"v2",
-						"vendor/assets/javascripts/parallax/acb_prlx_v2.js"
-					],
-					[
-						"_java",
-						"app/views/layouts/_javascripts.html.haml"
-					],
-					[
-						"lan",
-						"app/assets/javascripts/artconnect/landing.js.coffee"
-					],
-					[
-						"terms_in_about",
-						"app/views/pages/_terms_in_about.html.erb"
-					],
-					[
-						"abo",
-						"app/views/pages/about.html.haml"
+						"rou",
+						"config/routes.rb"
 					],
 					[
 						"dat",
@@ -1516,6 +1351,14 @@
 						"db/schema.rb"
 					],
 					[
+						"land",
+						"app/views/pages/landing.html.haml"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
 						"op",
 						"app/models/opportunity.rb"
 					],
@@ -1532,10 +1375,6 @@
 						"app/models/post.rb"
 					],
 					[
-						"_form",
-						"app/views/spaces/_form.html.haml"
-					],
-					[
 						"form_header",
 						"app/views/posts/_form_header.html.haml"
 					],
@@ -1550,10 +1389,6 @@
 					[
 						"layouts/",
 						"app/views/layouts/_footer.html.haml"
-					],
-					[
-						"schem",
-						"db/schema.rb"
 					],
 					[
 						"seed",
@@ -1578,6 +1413,126 @@
 					[
 						"glob",
 						"app/assets/stylesheets/global.css.scss"
+					],
+					[
+						"abo",
+						"app/views/pages/about.html.haml"
+					],
+					[
+						"gemf",
+						"Gemfile"
+					],
+					[
+						"rtmp",
+						"vendor/assets/javascripts/javascript-templates/js/tmpl.js"
+					],
+					[
+						"page",
+						"app/controllers/pages_controller.rb"
+					],
+					[
+						"see",
+						"db/seeds.rb"
+					],
+					[
+						"sta",
+						"config/environments/staging.rb"
+					],
+					[
+						"env",
+						"config/environment.rb"
+					],
+					[
+						"uni",
+						"config/unicorn.rb"
+					],
+					[
+						"gems",
+						".ruby-gemset"
+					],
+					[
+						"stag",
+						"config/environments/staging.rb"
+					],
+					[
+						"artc",
+						"config/initializers/artconnectberlin.rb"
+					],
+					[
+						"head",
+						"app/views/layouts/_head.html.haml"
+					],
+					[
+						"applica",
+						"app/views/layouts/application.html.haml"
+					],
+					[
+						"para",
+						"vendor/assets/javascripts/parallax/parallax.js"
+					],
+					[
+						"foot",
+						"app/views/navigation/_footer_nav.html.haml"
+					],
+					[
+						"la",
+						"app/views/pages/landing.html.haml"
+					],
+					[
+						"",
+						"app/views/pages/landing.html.haml"
+					],
+					[
+						"pages",
+						"app/views/navigation/_pages_nav.html.haml"
+					],
+					[
+						"welcome",
+						"app/views/user_mailer/welcome_message.html.erb"
+					],
+					[
+						"registrations/form_new",
+						"app/views/devise/registrations/_form_new.html.haml"
+					],
+					[
+						"reg",
+						"app/views/devise/registrations/new.html.haml"
+					],
+					[
+						"sessions",
+						"app/assets/stylesheets/web/users/sessions.css.scss"
+					],
+					[
+						"_links",
+						"app/views/devise/shared/_links.html.haml"
+					],
+					[
+						"sess/n",
+						"app/views/devise/sessions/new.html.haml"
+					],
+					[
+						"regisnew.h",
+						"app/views/devise/registrations/new.html.haml"
+					],
+					[
+						"_form_new.html.haml",
+						"app/views/devise/registrations/_form_new.html.haml"
+					],
+					[
+						"globa",
+						"app/assets/javascripts/artconnect/global.js.coffee"
+					],
+					[
+						"lock",
+						"Gemfile.lock"
+					],
+					[
+						"layouts/he",
+						"app/views/layouts/_head.html.haml"
+					],
+					[
+						"news",
+						"app/views/pages/newsletter.html.haml"
 					]
 				],
 				"width": 0.0
@@ -1587,6 +1542,18 @@
 				"height": 500.0,
 				"selected_items":
 				[
+					[
+						"ma",
+						"/Users/patze/Sites/dev/madels/madels.sublime-project"
+					],
+					[
+						"art",
+						"/Users/patze/Sites/dev/jukebox/artconnect.sublime-project"
+					],
+					[
+						"jo",
+						"/Users/patze/Sites/jo/jo.sublime-project"
+					],
 					[
 						"p",
 						"/Users/patze/Sites/pictrs/pictrs.sublime-project"
@@ -1600,1798 +1567,34 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 69.0,
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 400.0
 			},
 			"show_minimap": false,
 			"show_open_files": true,
 			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 271.0,
+			"side_bar_visible": false,
+			"side_bar_width": 273.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 1053.0
+		"new_window_width": 1131.0
 	},
 	"windows":
 	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"de",
-						"deleteLabel"
-					],
-					[
-						"co",
-						"contact"
-					],
-					[
-						"fi",
-						"filterByWord"
-					],
-					[
-						"fil",
-						"filterBy"
-					],
-					[
-						"pro",
-						"property"
-					],
-					[
-						"con",
-						"controllers"
-					],
-					[
-						"A",
-						"activities"
-					],
-					[
-						"bak",
-						"background-color"
-					],
-					[
-						"f",
-						"firstObject"
-					],
-					[
-						"to",
-						"toLeft"
-					],
-					[
-						"tr",
-						"transition"
-					],
-					[
-						"infl",
-						"influencers"
-					],
-					[
-						"fr",
-						"freshSearch"
-					],
-					[
-						"inf",
-						"influencers"
-					],
-					[
-						"influenc",
-						"influencer"
-					],
-					[
-						"inc",
-						"influencer"
-					],
-					[
-						"rel",
-						"relativePath"
-					],
-					[
-						"re",
-						"return"
-					],
-					[
-						"cur",
-						"currentRouteName"
-					],
-					[
-						"margi",
-						"margin-top:   (property)"
-					],
-					[
-						"bac",
-						"background-color"
-					],
-					[
-						"e",
-						"element"
-					],
-					[
-						"mar",
-						"margin"
-					],
-					[
-						"mi",
-						"middle  (value)"
-					],
-					[
-						"mh",
-						"min-height"
-					],
-					[
-						"lo",
-						"log"
-					],
-					[
-						"marg",
-						"margin:   (property)"
-					],
-					[
-						"cr",
-						"creative_services"
-					],
-					[
-						"ac",
-						"acb_landing_page"
-					],
-					[
-						"ta",
-						"tagline_1"
-					],
-					[
-						"la",
-						"landing"
-					],
-					[
-						"pos",
-						"post_project"
-					],
-					[
-						"lin",
-						"line_one"
-					],
-					[
-						"Lo",
-						"Location"
-					],
-					[
-						"line",
-						"line_one"
-					],
-					[
-						"post_",
-						"post_general"
-					],
-					[
-						"des",
-						"description"
-					],
-					[
-						"Co",
-						"Country"
-					],
-					[
-						"po",
-						"post_opportunity"
-					],
-					[
-						"op",
-						"opportunity"
-					],
-					[
-						"post",
-						"post_event"
-					],
-					[
-						"tag_e",
-						"tag_event_text"
-					],
-					[
-						"post_ev",
-						"post_event_sidebar"
-					],
-					[
-						"in",
-						"input_html"
-					],
-					[
-						"default",
-						"default_image"
-					],
-					[
-						"pu",
-						"public"
-					],
-					[
-						"priva",
-						"private"
-					],
-					[
-						"createa",
-						"create_account_form"
-					],
-					[
-						"Pro",
-						"Profile"
-					],
-					[
-						"fl",
-						"fl:l	float:left"
-					],
-					[
-						"mr",
-						"mr:a	margin-right:auto"
-					],
-					[
-						"sc",
-						"screenshot"
-					],
-					[
-						"emu",
-						"emulator"
-					],
-					[
-						"em",
-						"emulator"
-					],
-					[
-						"add",
-						"addressable_id"
-					],
-					[
-						"do",
-						"do	do..end"
-					],
-					[
-						"u",
-						"update_parallax"
-					],
-					[
-						"pa",
-						"padding-top"
-					],
-					[
-						"sign",
-						"sign-up-email"
-					],
-					[
-						"yp",
-						"yPosParallax_raw"
-					],
-					[
-						"ba",
-						"background-color"
-					],
-					[
-						"net",
-						"network"
-					],
-					[
-						"trans",
-						"transformCoords"
-					],
-					[
-						"wid",
-						"width"
-					],
-					[
-						"db",
-						"d:b	display:block"
-					],
-					[
-						"font",
-						"font-size"
-					],
-					[
-						"mapO",
-						"mapObj"
-					],
-					[
-						"l",
-						"log"
-					],
-					[
-						"conta",
-						"contact"
-					],
-					[
-						"ma",
-						"margin-bottom"
-					],
-					[
-						"fo",
-						"font-size"
-					],
-					[
-						"fon",
-						"font-weight"
-					],
-					[
-						"bc",
-						"background-color:   (property)"
-					],
-					[
-						"d",
-						"d:b	display:block"
-					],
-					[
-						"font-s",
-						"font-size:   (property)"
-					],
-					[
-						"font-",
-						"font-weight:   (property)"
-					],
-					[
-						"se",
-						"serif"
-					],
-					[
-						"mat",
-						"margin-right"
-					],
-					[
-						"ri",
-						"right:   (property)"
-					],
-					[
-						"col",
-						"color:   (property)"
-					],
-					[
-						"inlin",
-						"inline-block  (value)"
-					],
-					[
-						"wi",
-						"width"
-					],
-					[
-						"back",
-						"background-position:   (property)"
-					],
-					[
-						"st",
-						"style=  (attribute)"
-					],
-					[
-						"i",
-						"inline-block"
-					],
-					[
-						"text",
-						"text-decoration:   (property)"
-					],
-					[
-						"top",
-						"top_spacer"
-					],
-					[
-						"ko",
-						"kontext"
-					],
-					[
-						"th",
-						"thema_lang"
-					],
-					[
-						"us",
-						"user_path"
-					],
-					[
-						"p",
-						"padding-top"
-					],
-					[
-						"attr",
-						"attr_accessor"
-					],
-					[
-						"te",
-						"text_field"
-					],
-					[
-						"a",
-						"auto"
-					],
-					[
-						"at",
-						"attr_accessor"
-					],
-					[
-						"foto",
-						"fotos"
-					],
-					[
-						"no",
-						"notice_txt"
-					],
-					[
-						"el",
-						"elsif	elsif ..."
-					],
-					[
-						"be",
-						"be_blank"
-					],
-					[
-						"ne",
-						"name"
-					],
-					[
-						"req",
-						"require"
-					],
-					[
-						"test",
-						"testcloud_dev"
-					],
-					[
-						"gra",
-						"grades"
-					],
-					[
-						"dir",
-						"dirName"
-					],
-					[
-						"h",
-						"h1	Tag"
-					],
-					[
-						"cl",
-						"clear"
-					],
-					[
-						"padding",
-						"padding"
-					],
-					[
-						"ge",
-						"getOutOfTheControls"
-					],
-					[
-						"set",
-						"setZoom"
-					],
-					[
-						"get",
-						"getZoom"
-					],
-					[
-						"start",
-						"startDateTimeHash"
-					],
-					[
-						"ho",
-						"howManyMarkersToFit"
-					],
-					[
-						"one",
-						"oneMarker"
-					],
-					[
-						"how",
-						"howManyMarkersToFit2"
-					],
-					[
-						"new",
-						"newbounds"
-					],
-					[
-						"markers",
-						"markers_list_length"
-					],
-					[
-						"marke",
-						"markers_list"
-					],
-					[
-						"fa",
-						"fadeTo"
-					],
-					[
-						"al",
-						"allmarkersjson"
-					],
-					[
-						"di",
-						"display-all-button"
-					],
-					[
-						"dis",
-						"display"
-					],
-					[
-						"s",
-						"sidebar"
-					],
-					[
-						"ch",
-						"changeMonth"
-					],
-					[
-						"en",
-						"endCheck"
-					],
-					[
-						"els",
-						"else"
-					],
-					[
-						"hav",
-						"haveStart"
-					],
-					[
-						"end",
-						"endDateDigit"
-					],
-					[
-						"sta",
-						"startDate"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "app/styles/main/influencer.scss",
-					"settings":
-					{
-						"buffer_size": 416,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "app/controllers/contacts.coffee",
-					"settings":
-					{
-						"buffer_size": 1211,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "app/templates/contact/edit.emblem",
-					"settings":
-					{
-						"buffer_size": 3230,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"command_palette":
-			{
-				"height": 392.0,
-				"selected_items":
-				[
-					[
-						"ins",
-						"Package Control: Install Package"
-					],
-					[
-						"insa",
-						"Indentation: Convert to Spaces"
-					],
-					[
-						"pack",
-						"Package Control: Disable Package"
-					],
-					[
-						"de",
-						"File: Delete"
-					],
-					[
-						"ren",
-						"File: Rename"
-					],
-					[
-						"sli",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"slim",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"mo",
-						"File: Move"
-					],
-					[
-						"re",
-						"File: Rename"
-					],
-					[
-						"du",
-						"File: Duplicate"
-					],
-					[
-						"sl",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"ruby",
-						"Set Syntax: Ruby Slim"
-					],
-					[
-						"js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"packlist",
-						"Package Control: List Packages"
-					],
-					[
-						"blam",
-						"Git: Blame"
-					],
-					[
-						"bla",
-						"Set Syntax: Git Blame"
-					],
-					[
-						"packe",
-						"Package Control: Disable Package"
-					],
-					[
-						"hand",
-						"Set Syntax: Handlebars"
-					],
-					[
-						"packinstall",
-						"Package Control: Install Package"
-					],
-					[
-						"coffe",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"ja",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"del",
-						"File: Delete"
-					],
-					[
-						"rena",
-						"File: Rename"
-					],
-					[
-						"dele",
-						"File: Delete"
-					],
-					[
-						"dup",
-						"File: Duplicate"
-					],
-					[
-						"git bl",
-						"Git: Blame"
-					],
-					[
-						"gi",
-						"Git: Blame"
-					],
-					[
-						"inst",
-						"Package Control: Install Package"
-					],
-					[
-						"mov",
-						"File: Move"
-					],
-					[
-						"lame",
-						"Git: Blame"
-					],
-					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"css",
-						"Set Syntax: CSS"
-					],
-					[
-						"ham",
-						"Set Syntax: Ruby Haml"
-					],
-					[
-						"coff",
-						"Set Syntax: CoffeeScript"
-					],
-					[
-						"about",
-						"About"
-					],
-					[
-						"syn ru",
-						"Set Syntax: Ruby"
-					],
-					[
-						"syn js",
-						"Set Syntax: JavaScript"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
-					],
-					[
-						"path",
-						"Copy File Path"
-					],
-					[
-						"team",
-						"RubyTest: Generate Rails Migration"
-					],
-					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: Remove Package"
-					],
-					[
-						"git",
-						"Package Control: Install Package"
-					],
-					[
-						"",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 449.0
-			},
-			"console":
-			{
-				"height": 125.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Users/patze/Sites/mnd/network-frontend"
-			],
-			"file_history":
-			[
-				"/Users/patze/Sites/mnd/network-frontend/.bowerrc",
-				"/Users/patze/Sites/mnd/network-frontend/tests/helpers/start-app.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/application.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/application.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/person.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/pressroom.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/pressrooms.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/adapters/application.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/index.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/edit.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/tests/unit/views/social-media-profile-row-test.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/contacts.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/base.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/app.scss",
-				"/Users/patze/Sites/mnd/network-frontend/dist/assets/test-support.css",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/select-control-group.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/search-field.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-project",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/search-field.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace",
-				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/patze/.rvm/gems/ruby-2.1.2/gems/grooveshark-0.2.11/lib/grooveshark/client.rb",
-				"/Users/patze/Sites/mnd/network-frontend/.gitignore",
-				"/Users/patze/Sites/mnd/network-frontend/bower_components/mnd-bootstrap/src/mnd-bootstrap/_variables.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/label.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/label.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/person/image.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/config/environment.js",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/bower.json",
-				"/Users/patze/Sites/mnd/network-frontend/Brocfile.js",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/new-and-edit-contact-mixin.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers/show.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/note-textarea-edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/models/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/input-control-group.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/components/dropdown-select.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/input-control-group.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contact/edit.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/edit.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contact.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/contact-list-route.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contacts.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/router.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/new.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/new.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/imports/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/contact/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/google-analytics.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/influencer.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contact/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/app.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/person.scss",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/result.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/contacts/search.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/info.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/pr.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/index.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/show.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/activity.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/activities.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/MURXpressroom.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/avatar.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencer-row.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/note-textarea.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/tests/unit/components/dropdown-select-test.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/activities.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/bootstrap-fixes.scss",
-				"/Users/patze/Sites/mnd/network-frontend/package.json",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/note-textarea.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/components/dropdown-select.emblem",
-				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-				"/Users/patze/Desktop/app/controllers/person/activities.coffee",
-				"/Users/patze/Desktop/app/templates/person/activities.emblem",
-				"/Users/patze/Sites/mnd/network-frontend/app/adapters/compass.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/serializers/activity.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/activities.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/activities-row.coffee",
-				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/contact/index.coffee",
-				"/Users/patze/Library/Application Support/Sublime Text 2/Packages/CoffeeScript/log.sublime-snippet",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/note.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/social-media-profile.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/input-control-group.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/person/avatar.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/transition.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/dist/assets/network-frontend.css",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/show.hbs",
-				"/Users/patze/Library/Application Support/com.fournova.Tower2/66d2c4856f9b689fc259c8507edbf27e/trial.plist",
-				"/Users/patze/Sites/mnd/network-frontend/mypatch.patch",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/social-media-profile-row.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/influencers/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/influencers/search.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/show.hbx",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/show.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/routes/labels.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/duplicate-check.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/imports/import.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/base.sass",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/influencer-row.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/imports/import.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/person/avatar.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/mixins/person-actions-controller.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/duplicate-check.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/controllers/person/avatar.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/templates/influencers/activities.hbs",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/contacts.sass",
-				"/Users/patze/Sites/mnd/network-frontend/app/views/contacts/index.coffee",
-				"/Users/patze/Sites/mnd/network-frontend/app/styles/main/influencer.sass",
-				"/Users/patze/Sites/mnd/network-frontend/vendor/ember-infinite-scroll/infinite_scroll.js"
-			],
-			"find":
-			{
-				"height": 25.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*, -/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace",
-					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
-					"/Users/patze/Sites/mnd/network-frontend",
-					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
-					"/Users/patze/Sites/mnd/network-frontendBAKinterface, -/Users/patze/Sites/mnd/network-frontendBAKinterface/dist/*, -/Users/patze/Sites/mnd/network-frontendBAKinterface/vendor/*",
-					"\"/Users/patze/Sites/mnd/network-frontendBAKinterface, -/Users/patze/Sites/mnd/network-frontendBAKinterface/dist/*, -/Users/patze/Sites/mnd/network-frontendBAKinterface/vendor/*\"",
-					"/Users/patze/Sites/fontshop",
-					"",
-					"/Users/patze/Sites/fontshop",
-					"/Users/patze/Sites/artconnect",
-					"/Users/patze/Sites/artconnect/app/views",
-					"/Users/patze/Sites/artconnect",
-					"/Users/patze/Sites/dev/rdb",
-					"<open files>"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"find inf",
-					"find influ",
-					"selectize",
-					"ASSET_URL",
-					"cloudinar",
-					"cou",
-					"country",
-					"addlabel",
-					"createRecord",
-					"addob",
-					"setti",
-					"settime",
-					"label",
-					"parent",
-					"controllerfor",
-					"newAndEditContactMixin",
-					"alllabels",
-					"labels:",
-					"pushobj",
-					"hasmany",
-					"selected",
-					"label",
-					"createLabel",
-					"=\"",
-					"Social Media Accounts",
-					"tags / labels",
-					"is_new",
-					"save:",
-					"hans",
-					"edit",
-					"edit:",
-					"newcontact:",
-					"showSearch",
-					"geht",
-					"geht wa",
-					"newAndEditContactMixin",
-					"canceledit",
-					"test",
-					"ttesttesttesttesttesttesttesttesttes",
-					"createRecord",
-					"newContact",
-					"new cont",
-					"find",
-					"outlet ac",
-					"startApp",
-					"reopen",
-					"app",
-					"gogo",
-					"actions:",
-					"transitiontor",
-					"find",
-					"persistedSocialMediaProfiles",
-					"isNew",
-					"out	",
-					"outlet act",
-					"rendertemp",
-					"topics",
-					"rendertempl",
-					"new",
-					"templatename",
-					"<div class=\"",
-					"*.emblem",
-					".emblem",
-					"emblem",
-					"{action",
-					"action:",
-					"action",
-					"general",
-					"email",
-					".nw-infl__search",
-					"result",
-					"action \"asGrid\"",
-					".nw-contacts__search",
-					"btn-default",
-					"press",
-					"PrRoute",
-					"pr",
-					"please choose a",
-					"change newsroo",
-					"params",
-					"pressroom",
-					"PressroomRoute",
-					"influencer_id",
-					"contact_id",
-					"ContactRoute",
-					"applicationController",
-					"press",
-					"pressroom",
-					"/edit",
-					"view",
-					"save:",
-					"cancel",
-					"toggle",
-					"backButtonVisible",
-					"remove",
-					"fadeIn",
-					"fadein",
-					"hide(",
-					"transition",
-					"didinsert",
-					"note-textarea",
-					"didinsert",
-					"sinon",
-					"dropdown-select",
-					"note-textarea",
-					"noteErrors",
-					"dropdown-select",
-					"%div.colorStripe",
-					"\n                  %div.colorStripe",
-					"isNote",
-					"note",
-					"noterow",
-					"note-row",
-					"resetFilterByWord",
-					"duda",
-					"44",
-					"filterBy",
-					"FilterBy",
-					"filterBy",
-					"FilterBy",
-					"filterBy",
-					"filterCategories",
-					"show all",
-					"dropdown",
-					"show all",
-					"cont",
-					"availableCategories",
-					"availableFilters"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"",
-					"href=\"mailto:",
-					"<p>",
-					"",
-					".png\"",
-					"muxxi",
-					"contact"
-				],
-				"reverse": false,
-				"show_context": false,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 2,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "app/styles/main/influencer.scss",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 416,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "app/controllers/contacts.coffee",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1211,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										365,
-										365
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "app/templates/contact/edit.emblem",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3230,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										180,
-										180
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Ruby Slim/Syntaxes/Ruby Slim.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 25.0
-			},
-			"input":
-			{
-				"height": 30.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.find_results":
-			{
-				"height": 311.0
-			},
-			"position": "0 0 4 1440 874 0 0 1440 878 ",
-			"project": "mnd-nF.sublime-project",
-			"replace":
-			{
-				"height": 46.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-					[
-						"app",
-						"tests/helpers/start-app.coffee"
-					],
-					[
-						"cont",
-						"app/controllers/contacts.coffee"
-					],
-					[
-						"emb",
-						"app/templates/contact/edit.emblem"
-					],
-					[
-						"scss",
-						"app/styles/main/influencer.scss"
-					],
-					[
-						".css",
-						"app/styles/main/base.scss"
-					],
-					[
-						"bo",
-						"bower.json"
-					],
-					[
-						"contactshbs",
-						"app/templates/contacts.hbs"
-					],
-					[
-						"apptemplcontacts",
-						"app/templates/contacts.emblem"
-					],
-					[
-						"modellabel",
-						"app/models/label.coffee"
-					],
-					[
-						"contacted",
-						"app/controllers/contact/edit.coffee"
-					],
-					[
-						"bower",
-						"bower.json"
-					],
-					[
-						"edit",
-						"app/templates/contact/edit.emblem"
-					],
-					[
-						"contact-list-route",
-						"app/mixins/contact-list-route.coffee"
-					],
-					[
-						"routind",
-						"app/routes/contacts/index.coffee"
-					],
-					[
-						"contronew",
-						"app/controllers/contacts/new.coffee"
-					],
-					[
-						"appl",
-						"app/controllers/application.coffee"
-					],
-					[
-						"contacts",
-						"app/routes/contacts.coffee"
-					],
-					[
-						"new",
-						"app/routes/contacts/new.coffee"
-					],
-					[
-						"ro",
-						"app/router.coffee"
-					],
-					[
-						"ava",
-						"app/templates/person/avatar.emblem"
-					],
-					[
-						"notetextarea",
-						"app/views/note-textarea.coffee"
-					],
-					[
-						"personacti",
-						"app/controllers/person/activity.coffee"
-					],
-					[
-						"texta",
-						"app/templates/note-textarea.hbs"
-					],
-					[
-						"textare",
-						"app/views/note-textarea.coffee"
-					],
-					[
-						"pack",
-						"package.json"
-					],
-					[
-						"textarea",
-						"app/templates/note-textarea.hbs"
-					],
-					[
-						"rout",
-						"app/router.coffee"
-					],
-					[
-						"bow",
-						"bower.json"
-					],
-					[
-						"modelperso",
-						"app/models/person.coffee"
-					],
-					[
-						"pa",
-						"package.json"
-					],
-					[
-						"routecoff",
-						"app/router.coffee"
-					],
-					[
-						"infshow",
-						"app/controllers/influencers/show.coffee"
-					],
-					[
-						"ocial-media-profile-row",
-						"app/views/social-media-profile-row.coffee"
-					],
-					[
-						"show.em",
-						"app/templates/person/show.emblem"
-					],
-					[
-						"bas",
-						"app/styles/main/base.sass"
-					],
-					[
-						"broc",
-						"Brocfile.js"
-					],
-					[
-						"sea",
-						"app/templates/contacts/search-field.hbs"
-					],
-					[
-						"pac",
-						"package.json"
-					],
-					[
-						"show",
-						"app/templates/person/show.emblem"
-					],
-					[
-						"avat",
-						"app/templates/person/avatar.emblem"
-					],
-					[
-						"routes/influencers/search.",
-						"app/routes/influencers/search.coffee"
-					],
-					[
-						"index.html",
-						"app/index.html"
-					],
-					[
-						"bro",
-						"Brocfile.js"
-					],
-					[
-						"app.css",
-						"app/styles/app.scss"
-					],
-					[
-						"load-initializers",
-						"vendor/ember-load-initializers/ember-load-initializers.js"
-					],
-					[
-						"influen",
-						"app/controllers/influencers.coffee"
-					],
-					[
-						"rou",
-						"app/router.coffee"
-					],
-					[
-						"image.co",
-						"app/views/person/image.coffee"
-					],
-					[
-						"bowe",
-						"bower.json"
-					],
-					[
-						"json",
-						"bower.json"
-					],
-					[
-						"searc",
-						"app/controllers/influencers/search.coffee"
-					],
-					[
-						"infl",
-						"app/templates/influencers/influencer-row.hbs"
-					],
-					[
-						"application.j",
-						"/Users/patze/Sites/ff_iconz_static/build/assets/javascripts/application.js"
-					],
-					[
-						"ge",
-						"Gemfile"
-					],
-					[
-						"gem",
-						"Gemfile"
-					],
-					[
-						"gemf",
-						"Gemfile"
-					],
-					[
-						"app.js",
-						"app/assets/javascripts/app.js"
-					],
-					[
-						"scripts",
-						"app/views/partials/_scripts.haml"
-					],
-					[
-						"footer",
-						"app/views/partials/_footer.haml"
-					],
-					[
-						"ap",
-						"config/application.rb"
-					],
-					[
-						"pro",
-						"config/deploy/production.rb"
-					],
-					[
-						"tryouts/show.haml",
-						"app/views/tryouts/show.haml"
-					],
-					[
-						"subl",
-						"fontshop.sublime-project"
-					],
-					[
-						"sub",
-						"fontshop.sublime-project"
-					],
-					[
-						"en",
-						"config/locales/en.yml"
-					],
-					[
-						"appli",
-						"app/views/layouts/application.html.haml"
-					],
-					[
-						"en.y",
-						"config/locales/en.yml"
-					],
-					[
-						"font_mo",
-						"app/views/modules/_font_module.haml"
-					],
-					[
-						"storage",
-						"app/assets/javascripts/tryout/ng_lstorage.js"
-					],
-					[
-						"app.c",
-						"app/assets/javascripts/tryout/app.config.js"
-					],
-					[
-						"lstorag",
-						"app/assets/javascripts/tryout/app_lstorage.js"
-					],
-					[
-						"m-try",
-						"app/assets/stylesheets/modules/_m-tryout-textblock.sass"
-					],
-					[
-						"try/show",
-						"app/views/tryouts/show.haml"
-					],
-					[
-						"tryo",
-						"app/controllers/tryouts_controller.rb"
-					],
-					[
-						"char",
-						"app/assets/javascripts/modules/jquery.char-countr.js"
-					],
-					[
-						"setting",
-						"app/controllers/settings_controller.rb"
-					],
-					[
-						"fontlist.rb",
-						"lib/fontshop-core/app/models/fontlist.rb"
-					],
-					[
-						"fontlist",
-						"spec/factories/fontlists.rb"
-					],
-					[
-						"url",
-						"lib/fontshop-core/app/models/concerns/url_generatable.rb"
-					],
-					[
-						"fontlist_c",
-						"app/controllers/fontlists_controller.rb"
-					],
-					[
-						"proje",
-						"fontshop.sublime-project"
-					],
-					[
-						"input",
-						"app/assets/javascripts/views/input-icon.js"
-					],
-					[
-						"basic",
-						"app/assets/javascripts/basic.js"
-					],
-					[
-						"people/shw",
-						"app/views/people/show.html.haml"
-					],
-					[
-						"validate",
-						"app/assets/javascripts/views/form-validate.js"
-					],
-					[
-						"ketch",
-						"app/assets/javascripts/bower_components/ketchup-plugin/jquery.ketchup.validations.js"
-					],
-					[
-						"people/show",
-						"app/views/people/show.html.haml"
-					],
-					[
-						"setting/show",
-						"app/views/settings/show.html.haml"
-					],
-					[
-						"fontlist-ed",
-						"app/assets/javascripts/views/fontlist-edit.js"
-					],
-					[
-						"users",
-						"app/controllers/users_controller.rb"
-					],
-					[
-						"user",
-						"app/controllers/usermailer_controller.rb"
-					],
-					[
-						"face",
-						"app/assets/javascripts/views/facebook-connect.js"
-					],
-					[
-						"lock",
-						"Gemfile.lock"
-					],
-					[
-						"pages",
-						"app/controllers/pages_controller.rb"
-					],
-					[
-						"land",
-						"app/views/pages/landing.html.haml"
-					],
-					[
-						"about",
-						"app/views/pages/about.html.haml"
-					],
-					[
-						"head",
-						"app/views/layouts/_head.html.haml"
-					],
-					[
-						"applic",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"gl",
-						"app/assets/stylesheets/global.css.scss"
-					],
-					[
-						"globa",
-						"app/assets/javascripts/artconnect/global.js.coffee"
-					],
-					[
-						"v2",
-						"vendor/assets/javascripts/parallax/acb_prlx_v2.js"
-					],
-					[
-						"_java",
-						"app/views/layouts/_javascripts.html.haml"
-					],
-					[
-						"lan",
-						"app/assets/javascripts/artconnect/landing.js.coffee"
-					],
-					[
-						"terms_in_about",
-						"app/views/pages/_terms_in_about.html.erb"
-					],
-					[
-						"abo",
-						"app/views/pages/about.html.haml"
-					],
-					[
-						"dat",
-						"config/database.yml"
-					],
-					[
-						"events/_fo",
-						"app/views/events/_form.html.haml"
-					],
-					[
-						"form_ph",
-						"app/views/posts/_form_photos.html.haml"
-					],
-					[
-						"ter",
-						"app/views/pages/terms.md"
-					],
-					[
-						"term",
-						"app/views/pages/terms.md"
-					],
-					[
-						"terms",
-						"app/views/pages/terms.md"
-					],
-					[
-						"sc",
-						"db/schema.rb"
-					],
-					[
-						"op",
-						"app/models/opportunity.rb"
-					],
-					[
-						"space",
-						"app/controllers/spaces_controller.rb"
-					],
-					[
-						"addr",
-						"app/models/address.rb"
-					],
-					[
-						"post.r",
-						"app/models/post.rb"
-					],
-					[
-						"_form",
-						"app/views/spaces/_form.html.haml"
-					],
-					[
-						"form_header",
-						"app/views/posts/_form_header.html.haml"
-					],
-					[
-						"form_photos",
-						"app/views/posts/_form_photos.html.haml"
-					],
-					[
-						"form_he",
-						"app/views/posts/_form_header.html.haml"
-					],
-					[
-						"layouts/",
-						"app/views/layouts/_footer.html.haml"
-					],
-					[
-						"schem",
-						"db/schema.rb"
-					],
-					[
-						"seed",
-						"db/seeds.rb"
-					],
-					[
-						"noti",
-						"app/models/notification.rb"
-					],
-					[
-						"comme",
-						"app/models/comment.rb"
-					],
-					[
-						"profile_nav",
-						"app/views/navigation/_profile_nav.html.haml"
-					],
-					[
-						"abou",
-						"app/views/pages/about.html.haml"
-					],
-					[
-						"glob",
-						"app/assets/stylesheets/global.css.scss"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"selected_items":
-				[
-					[
-						"p",
-						"/Users/patze/Sites/pictrs/pictrs.sublime-project"
-					],
-					[
-						"",
-						"/Users/patze/Sites/dev/ao/ao.sublime-project"
-					]
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": true,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 271.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 31,
-			"workspace_name": "/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace"
-		}
 	],
 	"workspaces":
 	{
 		"recent_workspaces":
 		[
-			"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace"
+			"/Users/patze/Sites/mnd/mynewsdesk/mnd-main.sublime-workspace",
+			"/Users/patze/Sites/mnd/network-frontend/mnd-nF.sublime-workspace",
+			"/Users/patze/Sites/dev/testCloud-web/testCloud.sublime-workspace"
 		]
 	}
 }

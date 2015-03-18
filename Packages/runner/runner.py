@@ -1,4 +1,5 @@
-# -*- coding: utf-8 -*-
+#! /usr/bin/python
+
 
 import sublime, sublime_plugin
 import sys
@@ -9,6 +10,7 @@ import threading
 import math
 import time
 import tempfile
+
 
 class ThreadProgress():
     """
@@ -64,7 +66,10 @@ class RunThread(threading.Thread):
     def run(self):
         # Some program may be in /usr/local/bin
         env = os.environ.copy()
-        env["PATH"] += ":/usr/local/bin"
+        #env["PATH"] += ":/usr/local/bin"
+        #env["PYTHONIOENCODING"] = 'UTF-8'
+        #env["LC_CTYPE"] = 'UTF-8'
+        #env["PYTHONPATH"] = "/usr/bin/python"
 
         # And count the eclapsed time
 
@@ -80,6 +85,31 @@ class RunThread(threading.Thread):
                                , env     = env)
 
         stdout, stderr = run.communicate()
+        #stdout, stderr = run.stdout, run.stderr
+
+        #print(  os.popen("ruby -v").read()  )
+        #print(  os.popen("which python").read()  )
+        #print(sys.version)
+
+        #print(  os.environ.copy()  )
+        #print(  subprocess.Popen("uptime", stdout=subprocess.PIPE, shell=True).wait()  )
+        print( "xxxxx" )
+        print( "afklasjdlkfdajs" )
+
+        # geht mit Python 2.7
+        #print(  subprocess.check_output("ruby /var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/coderunner_temp", shell=True, env=env)  )
+        #print(  subprocess.check_output("ruby /var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/coderunner_temp > cr.output", shell=True, env=env)  )
+
+
+
+        #print(  subprocess.check_output(["ruby ", "/var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/coderunner_temp"])  )
+        #print(  subprocess.check_output('ls')  )
+
+        print( "xxxxx" )
+        # print("output:")
+        #print(   subprocess.getoutput(cmd) )
+        # print(    stdout.decode("utf-8") )
+        # print(    stdout.decode(sys.getfilesystemencoding()) )
 
         eclapsed = int( (time.time() - eclapsed) * 1000 )
 
@@ -121,7 +151,14 @@ class RunThread(threading.Thread):
             new_view.run_command("run_code_show_result", { "args" : output })
             new_view.run_command("run_code_show_result", { "args" : "\n !! <<< ERRORR >>> !! \n\n" })
         else:
+            #sublime.message_dialog(new_view.encoding())
             new_view.run_command("run_code_show_result", { "args" : output })
+
+            #file = os.path.normpath(tempfile.gettempdir()) + "/" +  "cr.output"
+            #print(file)
+            #file_content = open(file, 'r').read()
+            #new_view.run_command("run_code_show_result", { "args" : file_content })
+            #u'{mmm!s}'.format(**locals())
 
         new_view.set_read_only(True)
         new_view.set_scratch(True)
@@ -129,6 +166,9 @@ class RunThread(threading.Thread):
 
 class RunCodeShowResultCommand(sublime_plugin.TextCommand):
     def run(self, edit, args):
+        print('encoding')
+        print(self.view.encoding())
+        self.view.set_encoding('UTF-8')
         self.view.insert( edit, 0, args )
 
 
@@ -152,6 +192,8 @@ class RunCodeCommand(sublime_plugin.WindowCommand):
             filename = os.path.normpath(tempfile.gettempdir()) + "/" + command_settings.get("temp_file_name")
             try:
                 #temp = open(filename, "w")
+                print("filename: coderunner.py")
+                print(filename)
                 temp = io.open(filename, 'w', encoding='utf8')
             except:
                 sublime.status_message("Cannot save buffer to temp file for running!")
@@ -159,8 +201,21 @@ class RunCodeCommand(sublime_plugin.WindowCommand):
 
             all_content = view.substr(sublime.Region(0,view.size()))
 
+            print(filename)
+
             temp.write( all_content )
             temp.close()
+
+            # manually run file:
+            ##print("manually:")
+            ##env = os.environ.copy()
+            ###print (subprocess.call("rm cr.output", shell=True))
+            ##cmd = "ruby " + filename + " > " + os.path.normpath(tempfile.gettempdir()) + "/" +  "cr.output"
+            ##print(cmd)
+            ##return_code = subprocess.call(cmd, shell=True)
+            ##print("return_code")
+            ##print(return_code)
+            ##print("manually:END")
 
         thread = RunThread( commands[language], filename, args , self )
 

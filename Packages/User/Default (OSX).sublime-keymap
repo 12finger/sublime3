@@ -1,9 +1,12 @@
 [
-  { "keys": ["control+s"], "command": "toggle_side_bar" },
-  { "keys": ["shift+ctrl+f"], "command": "side_bar_find_in_project" },
-  { "keys": ["super+b"], "command": "js_format"},
-  { "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
-  { "keys": ["ctrl+alt+l"], "command": "toggle_setting", "args": { "setting": "line_numbers" } }
+  { "keys": ["control+s"], "command": "toggle_side_bar" }
+  ,{ "keys": ["shift+ctrl+f"], "command": "side_bar_find_in_project" }
+  ,{ "keys": ["super+b"], "command": "js_format"}
+  ,{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} }
+  ,{ "keys": ["ctrl+alt+l"], "command": "toggle_setting", "args": { "setting": "line_numbers" } }
+
+  ,{ "keys": ["j", "j"], "command": "_enter_normal_mode", "args": {"mode": "mode_insert"}, "context": [{"key": "vi_insert_mode_aware"}] }
+
 
   //{ "keys": ["enter"], "command": "move", "args": {"by": "characters", "forward": true}, "context":
   //  [

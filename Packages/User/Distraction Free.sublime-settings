@@ -1,8 +1,11 @@
 {
-	"line_numbers": true,
+	//"line_numbers": true,
+  "line_numbers": false,
 	"gutter": true,
+  "gutter": false,
 	"draw_centered": false,
 	"wrap_width": 0,
 	"word_wrap": true,
-	"scroll_past_end": true
+	//"scroll_past_end": true
+  "scroll_past_end": false
 }

@@ -1,27 +1,38 @@
 {
 	"folder_history":
 	[
-		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/cucumber-1.3.11",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/modularity-0.6.1",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/carrierwave-0.10.0",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/cloudinary-1.0.84",
+		"/Users/patze/Sites/mnd/mynewsdesk",
+		"/Users/patze/Sites/mnd",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/cloudinary-1.0.75",
+		"/Users/patze/Sites/dev/madels",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/railties-3.2.17",
+		"/Users/patze/Sites/homify",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/bundler/gems/route_translator-b4f349a73ce9",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/actionpack-3.2.17",
+		"/Users/patze/Sites/fontshop",
+		"/Users/patze/gems/route_translator",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/spreewald-0.9.4",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/route_translator-4.0.0",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/journey-1.0.4",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/fontcustom-1.3.3",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/email_spec-1.5.0",
+		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/cucumber-1.3.11",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/activesupport-3.2.17",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/rack-1.4.5",
-		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/actionpack-3.2.17",
-		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/railties-3.2.17",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/rails-3.2.17",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/devise-3.2.3",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/actionmailer-3.2.17",
-		"/Users/patze/Sites/dev/madels",
 		"/Users/patze/Sites/ff_iconz_static",
 		"/Users/patze/Sites/a_TYPE WEBSITE FINAL",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/inherited_resources-1.4.0",
 		"/Users/patze/Dropbox/djpro_instruments_file_logger-1st_Start.trace",
 		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/sanitize-2.1.0",
-		"/Users/patze/.rvm/gems/ruby-2.0.0-p247@homify/gems/modularity-0.6.1",
-		"/Users/patze/Sites/homify",
 		"/Users/patze/Sites/mnd/network-backend",
 		"/Users/patze/Sites/mnd/compass",
 		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/sidekiq-pro-1.9.1",
-		"/Users/patze/Sites/mnd/mynewsdesk",
 		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/kaminari-0.16.1",
 		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/activesupport-4.1.0",
 		"/Users/patze/.rvm/gems/ruby-2.1.3/gems/rails-4.1.0",
@@ -31,7 +42,7 @@
 		"/Users/patze/Sites/mnd/network-frontend"
 	],
 	"last_version": 3065,
-	"last_window_id": 472,
+	"last_window_id": 624,
 	"log_indexing": false,
 	"settings":
 	{
@@ -42,6 +53,250 @@
 			{
 				"selected_items":
 				[
+					[
+						"item",
+						"item_category"
+					],
+					[
+						"to",
+						"to_sym"
+					],
+					[
+						"kl",
+						"klass_name"
+					],
+					[
+						"me",
+						"method_args"
+					],
+					[
+						"sanit",
+						"sanitizer"
+					],
+					[
+						"sani",
+						"sanitized"
+					],
+					[
+						"mou",
+						"mounted_column"
+					],
+					[
+						"is",
+						"is_correct_type"
+					],
+					[
+						"all",
+						"allowed_img_types"
+					],
+					[
+						"con",
+						"content_type"
+					],
+					[
+						"ite",
+						"item_id"
+					],
+					[
+						"to_",
+						"to_sym"
+					],
+					[
+						"com",
+						"column_string"
+					],
+					[
+						"co",
+						"column_sym"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"up",
+						"update_columns"
+					],
+					[
+						"is_a",
+						"is_a_string"
+					],
+					[
+						"ca",
+						"cached_file"
+					],
+					[
+						"Di",
+						"DiscussionPhotoUploader"
+					],
+					[
+						"va",
+						"values"
+					],
+					[
+						"ver",
+						"versions_hash"
+					],
+					[
+						"get",
+						"get_orientation"
+					],
+					[
+						"A",
+						"ALL_VERSIONS__DISCUSSION"
+					],
+					[
+						"im",
+						"img_versions_hash"
+					],
+					[
+						"i",
+						"i1920x900"
+					],
+					[
+						"w",
+						"w554"
+					],
+					[
+						"tr",
+						"tranfs"
+					],
+					[
+						"el",
+						"element"
+					],
+					[
+						"in",
+						"inspect"
+					],
+					[
+						"sel",
+						"select"
+					],
+					[
+						"fla",
+						"flatten"
+					],
+					[
+						"fl",
+						"flatten"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"mod",
+						"modifications"
+					],
+					[
+						"mo",
+						"modifications"
+					],
+					[
+						"re",
+						"required_versions"
+					],
+					[
+						"edit",
+						"edit-photos--item-photo"
+					],
+					[
+						"raw",
+						"raw_text"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"file",
+						"file_url"
+					],
+					[
+						"ro",
+						"route_time"
+					],
+					[
+						"ne",
+						"new_locale"
+					],
+					[
+						"week",
+						"weekcard"
+					],
+					[
+						"url",
+						"url_for"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"incl",
+						"inlcusive_www"
+					],
+					[
+						"inc",
+						"inlcusive_www"
+					],
+					[
+						"prodt",
+						"production"
+					],
+					[
+						"git",
+						"github"
+					],
+					[
+						"ide",
+						"ideabooks"
+					],
+					[
+						"photos",
+						"photos_selected"
+					],
+					[
+						"dete",
+						"LocaleDetector"
+					],
+					[
+						"pro",
+						"process_async"
+					],
+					[
+						"addr",
+						"address"
+					],
+					[
+						"image_",
+						"image_tag"
+					],
+					[
+						"image",
+						"image_path"
+					],
+					[
+						"id",
+						"ideabooks"
+					],
+					[
+						"pr",
+						"professional_locale"
+					],
+					[
+						"revie",
+						"review_request"
+					],
+					[
+						"sen",
+						"send_account_activated"
+					],
+					[
+						"lo",
+						"locale"
+					],
 					[
 						"sta",
 						"standard_i18n_rest_scope"
@@ -75,10 +330,6 @@
 						"source"
 					],
 					[
-						"edit",
-						"edit_profile"
-					],
-					[
 						"bear",
 						"bearbeiten"
 					],
@@ -107,10 +358,6 @@
 						"business_type"
 					],
 					[
-						"lo",
-						"load_more_visible"
-					],
-					[
 						"fea",
 						"featured_idea_books"
 					],
@@ -127,20 +374,12 @@
 						"public_name"
 					],
 					[
-						"co",
-						"comment_user"
-					],
-					[
 						"disc",
 						"discussion_notification"
 					],
 					[
 						"dis",
 						"discussion_created"
-					],
-					[
-						"sen",
-						"sender_name_or_link"
 					],
 					[
 						"link",
@@ -175,10 +414,6 @@
 						"sanitize_method_name"
 					],
 					[
-						"sanit",
-						"sanitize_"
-					],
-					[
 						"san",
 						"sanitize_config"
 					],
@@ -199,10 +434,6 @@
 						"options"
 					],
 					[
-						"ca",
-						"category"
-					],
-					[
 						"categ",
 						"category_slug"
 					],
@@ -213,14 +444,6 @@
 					[
 						"sty",
 						"style_slug"
-					],
-					[
-						"in",
-						"in_style"
-					],
-					[
-						"url",
-						"url_absolute"
 					],
 					[
 						"pa",
@@ -315,20 +538,12 @@
 						"stderr"
 					],
 					[
-						"pr",
-						"print"
-					],
-					[
 						"s",
 						"stdout"
 					],
 					[
 						"top",
 						"top_5"
-					],
-					[
-						"con",
-						"contacts"
 					],
 					[
 						"di",
@@ -347,231 +562,19 @@
 						"api_url"
 					],
 					[
-						"re",
-						"response"
-					],
-					[
 						"ch",
 						"channel_params"
-					],
-					[
-						"xml",
-						"xml_input"
-					],
-					[
-						"api",
-						"api_key"
-					],
-					[
-						"C",
-						"Channel"
-					],
-					[
-						"min",
-						"min-width"
-					],
-					[
-						"marg",
-						"margin-bottom"
-					],
-					[
-						"wi",
-						"width:   (property)"
-					],
-					[
-						"upd",
-						"finalize_update"
-					],
-					[
-						"mi",
-						"migrate"
-					],
-					[
-						"tr",
-						"transparent  (value)"
-					],
-					[
-						"pos",
-						"posts-index"
-					],
-					[
-						"text",
-						"textfield"
-					],
-					[
-						"ov",
-						"ovx	overflow-x"
-					],
-					[
-						"over",
-						"overflow-y"
-					],
-					[
-						"fade",
-						"fadeOut"
-					],
-					[
-						"mar",
-						"margin:   (property)"
-					],
-					[
-						"po",
-						"post-single"
-					],
-					[
-						"br",
-						"bdrz	border-radius"
-					],
-					[
-						"col",
-						"collection_item"
-					],
-					[
-						"app",
-						"application"
-					],
-					[
-						"margin",
-						"margin-top"
-					],
-					[
-						"coll",
-						"collection_items"
-					],
-					[
-						"td",
-						"td:u	text-decoration:underline"
-					],
-					[
-						"bo",
-						"bootstrap"
-					],
-					[
-						"cr",
-						"creative_services"
-					],
-					[
-						"ac",
-						"acb_landing_page"
-					],
-					[
-						"ta",
-						"tagline_1"
-					],
-					[
-						"la",
-						"landing"
-					],
-					[
-						"Lo",
-						"Location"
-					],
-					[
-						"line",
-						"line_one"
-					],
-					[
-						"post_",
-						"post_general"
-					],
-					[
-						"des",
-						"description"
-					],
-					[
-						"Co",
-						"Country"
-					],
-					[
-						"post",
-						"post_event"
-					],
-					[
-						"tag_e",
-						"tag_event_text"
-					],
-					[
-						"post_ev",
-						"post_event_sidebar"
-					],
-					[
-						"default",
-						"default_image"
-					],
-					[
-						"pu",
-						"public"
-					],
-					[
-						"priva",
-						"private"
-					],
-					[
-						"createa",
-						"create_account_form"
-					],
-					[
-						"Pro",
-						"Profile"
-					],
-					[
-						"fl",
-						"fl:l	float:left"
-					],
-					[
-						"to",
-						"to_s"
-					],
-					[
-						"mr",
-						"mr:a	margin-right:auto"
-					],
-					[
-						"sc",
-						"screenshot"
-					],
-					[
-						"emu",
-						"emulator"
-					],
-					[
-						"em",
-						"emulator"
-					],
-					[
-						"add",
-						"addressable_id"
-					],
-					[
-						"do",
-						"do	do..end"
-					],
-					[
-						"u",
-						"update_parallax"
-					],
-					[
-						"fi",
-						"firstrun"
 					]
 				]
 			},
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 103.0,
+				"height": 400.0,
 				"selected_items":
 				[
 					[
-						"blame",
-						"Git: Blame"
-					],
-					[
-						"blam",
-						"Git: Blame"
-					],
-					[
-						"ru",
+						"RUB",
 						"Set Syntax: Ruby"
 					],
 					[
@@ -579,32 +582,88 @@
 						"Git: Blame"
 					],
 					[
-						"rub",
-						"Set Syntax: Ruby"
-					],
-					[
-						"bkam",
-						"Bookmarks: Clear All"
-					],
-					[
-						"mo",
-						"File: Move"
-					],
-					[
-						"mov",
-						"File: Move"
-					],
-					[
-						"ren",
-						"File: Rename"
+						"del",
+						"File: Delete"
 					],
 					[
 						"re",
 						"File: Rename"
 					],
 					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
 						"de",
 						"File: Delete"
+					],
+					[
+						"ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"htm",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"bkam",
+						"Bookmarks: Clear All"
 					],
 					[
 						"te",
@@ -619,19 +678,7 @@
 						"Text Pastry: From 1 To X"
 					],
 					[
-						"insa",
-						"Package Control: Install Package"
-					],
-					[
-						"du",
-						"File: Duplicate"
-					],
-					[
 						"insta",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -717,10 +764,6 @@
 					[
 						"Package Control: ",
 						"Package Control: Install Package"
-					],
-					[
-						"pa",
-						"Package Control: Remove Package"
 					]
 				],
 				"width": 538.0
@@ -745,134 +788,134 @@
 			},
 			"file_history":
 			[
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/benchmaring.rb",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/4.rb",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/routes-rails",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/3.rb",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/2.rb",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/domain locales routes.rb",
-				"/Users/patze/Dropbox/02_coding/ruby/rails/i18n-routes/case.rb",
-				"/Users/patze/Dropbox/02_coding/homify/futter/benchmaring.rb",
-				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_fr.html.haml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_comment_created.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_tr.html.haml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_profile_completion_reminder.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_es.html.haml",
-				"/Users/patze/Sites/homify/config/locales/sg.yml",
-				"/Users/patze/Sites/homify/lib/tasks/send_newsletters.rake",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request.html.haml",
-				"/Users/patze/Sites/homify/config/locales/ru.yml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_review_created.html.haml",
-				"/Users/patze/Sites/homify/config/locales/routes.fr.yml",
-				"/Users/patze/Sites/homify/config/locales/ar.yml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_discussion_comment_created.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_en.html.haml",
-				"/Users/patze/Sites/homify/features/user/messages/send.feature",
-				"/Users/patze/Sites/homify/config/locales/br.yml",
-				"/Users/patze/Sites/homify/config/locales/en.yml",
-				"/Users/patze/Sites/homify/config/locales/es.yml",
-				"/Users/patze/Sites/homify/config/locales/fr.yml",
-				"/Users/patze/Sites/homify/config/locales/hk.yml",
-				"/Users/patze/Sites/homify/config/locales/in.yml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_discussion_created.html.haml",
-				"/Users/patze/Sites/homify/config/initializers/i18n.rb",
-				"/Users/patze/Sites/homify/app/helpers/path_helper.rb",
-				"/Users/patze/Sites/homify/app/controllers/discussions_controller.rb",
-				"/Users/patze/Sites/homify/config/locales/routes.de.yml",
-				"/Users/patze/Sites/homify/app/views/user_mailer/bench.html.haml",
-				"/Users/patze/Sites/homify/app/controllers/admin/base_controller.rb",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_account_activated.html.haml",
-				"/Users/patze/Sites/homify/config/routes.rb",
-				"/Users/patze/Sites/homify/config/environments/development.rb",
-				"/Users/patze/Sites/homify/config/locales/devise.de.yml",
-				"/Users/patze/Sites/homify/config/locales/de.yml",
-				"/Users/patze/Sites/homify/app/controllers/admin/dev_controller.rb",
-				"/Users/patze/Sites/homify/config/locales/routes.en.yml",
-				"/Users/patze/Sites/homify/config/locales/routes.es.yml",
-				"/Users/patze/Sites/homify/lib/middleware/locale_detector.rb",
+				"/Users/patze/Sites/homify/config/initializers/miro.rb",
+				"/Users/patze/Sites/homify/app/workers/process_profile_photo_background_color_worker.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/miro-cloudinary color comparison",
+				"/Users/patze/Sites/homify/lib/tasks/calculate_color_and_size.rake",
+				"/Users/patze/Sites/homify/app/models/professional.rb",
+				"/Users/patze/Sites/homify/app/controllers/users_controller.rb",
+				"/Users/patze/Sites/homify/db/migrate/20141114173044_add_profile_photo_background_color.rb",
+				"/Users/patze/Sites/homify/config/environments/production.rb",
+				"/Users/patze/Sites/homify/app/controllers/project/photos_controller.rb",
 				"/Users/patze/Sites/homify/Gemfile",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_password_change.html.haml",
-				"/Users/patze/Sites/homify/features/support/env.rb",
-				"/Users/patze/Sites/homify/app/helpers/admin_helper.rb",
-				"/Users/patze/Sites/homify/app/controllers/application_controller.rb",
-				"/Users/patze/Sites/homify/app/mailers/external_mailer.rb",
-				"/Users/patze/Sites/homify/spec/models/user_mailer_spec.rb",
-				"/Users/patze/Sites/homify/app/views/user_mailer/send_message.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_idea_book_review_answer.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_de.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_br.html.haml",
-				"/Users/patze/Sites/homify/spec/helpers/path_helper_spec.rb",
-				"/Users/patze/Sites/homify/features/support/paths.rb",
-				"/Users/patze/Sites/homify/config/locales/base.in.yml",
-				"/Users/patze/Sites/homify/config/locales/base.hk.yml",
-				"/Users/patze/Sites/homify/config/locales/base.fr.yml",
-				"/Users/patze/Sites/homify/config/locales/base.es.yml",
-				"/Users/patze/Sites/homify/config/locales/base.it.yml",
-				"/Users/patze/Sites/homify/config/locales/base.jp.yml",
-				"/Users/patze/Sites/homify/config/locales/base.kr.yml",
-				"/Users/patze/Sites/homify/config/locales/base.mx.yml",
-				"/Users/patze/Sites/homify/config/locales/base.nl.yml",
-				"/Users/patze/Sites/homify/config/locales/base.pl.yml",
-				"/Users/patze/Sites/homify/config/locales/base.pt.yml",
-				"/Users/patze/Sites/homify/config/locales/base.ru.yml",
-				"/Users/patze/Sites/homify/config/locales/base.sg.yml",
-				"/Users/patze/Sites/homify/config/locales/base.tr.yml",
-				"/Users/patze/Sites/homify/config/locales/base.en.yml",
-				"/Users/patze/Sites/homify/config/locales/base.de.yml",
-				"/Users/patze/Sites/homify/config/locales/base.br.yml",
-				"/Users/patze/Sites/homify/config/locales/base.ar.yml",
-				"/Users/patze/Sites/homify/app/uploaders/base_uploader.rb",
-				"/Users/patze/Sites/homify/config/initializers/backtrace_silencers.rb",
-				"/Users/patze/Sites/homify/config/initializers/badges.rb",
-				"/Users/patze/Sites/homify/app/mailers/devise_mailer.rb",
-				"/Users/patze/Sites/homify/app/helpers/idea_book/idea_book_review_requests_helper.rb",
-				"/Users/patze/Sites/homify/config/locales/routes.hk.yml",
-				"/Users/patze/Sites/homify/config/locales/routes.sg.yml",
-				"/Users/patze/Sites/homify/config/locales/devise.en.yml",
-				"/Users/patze/Sites/homify/app/helpers/application_helper.rb",
-				"/Users/patze/Sites/homify/config/application.rb",
-				"/Users/patze/Sites/homify/app/views/shared/mailer/_footer.html.haml",
-				"/Users/patze/Sites/homify/app/helpers/url_helper.rb",
 				"/Users/patze/Sites/homify/app/models/user.rb",
-				"/Users/patze/Sites/homify/app/controllers/auth/passwords_controller.rb",
-				"/Users/patze/Sites/homify/config/locales/routes.pt.yml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_newsletter.html.haml",
-				"/Users/patze/Sites/homify/lib/speaking_path_builder.rb",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_hk.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_ar.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_error_messages.html.haml",
+				"/Users/patze/Sites/homify/app/mailers/user_mailer.rb",
+				"/private/var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/nspect :",
+				"/var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/irb_tempfile20150409-59698-1xqs6h9.rb",
+				"/Users/patze/Sites/homify/app/models/discussion_photo.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/angular/controllers/sub_category_product_controller.js.coffee",
+				"/Users/patze/Sites/homify/spec/lib/ruby_created_at_spec.rb",
+				"/Users/patze/Sites/homify/config/locales/ru.yml",
+				"/Users/patze/Sites/homify/config/routes.rb",
 				"/Users/patze/Sites/homify/app/models/seo_element.rb",
-				"/Users/patze/Sites/homify/app/models/review_request.rb",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_in.html.haml",
-				"/Users/patze/Sites/homify/homify.sublime-workspace",
-				"/Users/patze/Sites/homify/app/helpers/user_helper.rb",
+				"/Users/patze/Sites/homify/app/workers/photo_counter_cache_worker.rb",
+				"/Users/patze/Sites/homify/app/workers/photo_image_processor_worker.rb",
+				"/Users/patze/Sites/homify/config/cloudinary.yml",
+				"/Users/patze/Sites/homify/app/models/shared/sanitize_trait.rb",
+				"/Users/patze/Sites/homify/app/models/idea_book_photo.rb",
+				"/Users/patze/Sites/homify/app/models/idea_book.rb",
+				"/Users/patze/Sites/homify/config/locales/sg.yml",
+				"/Users/patze/Sites/homify/app/views/idea_book_photos/_form.html.haml",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/_quickfixes.sass",
+				"/Users/patze/Sites/homify/spec/support/shared_examples/sanitize_trait.rb",
+				"/Users/patze/Sites/homify/app/models/service_area.rb",
+				"/Users/patze/Sites/homify/app/models/shared/featurable_trait.rb",
+				"/Users/patze/Sites/homify/app/controllers/idea_books_controller.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/question_fancy.js",
+				"/Users/patze/Sites/homify/lib/tasks/migrate_photo_assets_to_cloudinary.rake",
+				"/Users/patze/Sites/homify/app/views/landing_page/load_more_idea_books.html.haml",
+				"/Users/patze/Sites/homify/config/locales/mx.yml",
+				"/Users/patze/Sites/homify/app/models/photo.rb",
+				"/Users/patze/Sites/homify/db/migrate/20150408094253_add_temp_cloudinary_to_all_models.rb",
+				"/Users/patze/Sites/homify/db/schema.rb",
+				"/Users/patze/Sites/homify/config/initializers/image_versions.rb",
+				"/Users/patze/Sites/homify/db/migrate/20141121102717_add_temporal_property_to_projects.rb",
+				"/Users/patze/Sites/homify/db/migrate/20140211120806_add_text_to_seo_elements.rb",
+				"/Users/patze/Sites/homify/features/photos/add_to_ideabook.feature",
+				"/Users/patze/Sites/homify/lib/icons/add.svg",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_de.js",
+				"/Users/patze/Sites/homify/config/application.rb",
+				"/Users/patze/Sites/homify/features/support/env.rb",
+				"/Users/patze/Sites/homify/app/uploaders/photo_image_uploader.rb",
+				"/Users/patze/Sites/homify/config/globals/test.yml",
+				"/Users/patze/Sites/homify/app/controllers/discussion_photos_controller.rb",
+				"/Users/patze/Sites/homify/app/uploaders/base_uploader.rb",
+				"/Users/patze/Sites/homify/app/uploaders/teaser_image_uploader.rb",
+				"/Users/patze/Sites/homify/app/uploaders/discussion_photo_uploader.rb",
+				"/Users/patze/Sites/homify/config/globals/production.yml",
+				"/Users/patze/Sites/homify/app/views/discussions/_root_discussion.html.haml",
+				"/Users/patze/Sites/homify/features/admin/company_root_categories.feature",
+				"/Users/patze/Sites/homify/app/models/company_root_category.rb",
 				"/Users/patze/Sites/homify/features/admin/users.feature",
-				"/Users/patze/Sites/homify/app/views/devise/mailer/reset_password_instructions.html.haml",
-				"/Users/patze/Sites/homify/features/professional/review_request.feature",
-				"/Users/patze/Sites/homify/spec/models/review_request_spec.rb",
-				"/Users/patze/Sites/homify/spec/models/professional_spec.rb",
-				"/Users/patze/Sites/homify/db/migrate/20150210154353_add_instagram_and_linkedin_to_users.rb",
-				"/Users/patze/Sites/homify/spec/models/review_spec.rb",
-				"/Users/patze/Sites/homify/spec/support/blueprints.rb",
-				"/Users/patze/Sites/homify/features/internationalization/professionals/review_request.feature",
-				"/Users/patze/Sites/homify/app/models/review.rb",
-				"/Users/patze/Sites/homify/app/workers/review_request_mail_worker.rb",
-				"/Users/patze/Sites/homify/app/controllers/auth/registrations_controller.rb",
-				"/Users/patze/Sites/homify/app/helpers/location_helper.rb",
-				"/Users/patze/Sites/homify/app/assets/stylesheets/views/_layout.sass",
-				"/Users/patze/Sites/homify/app/workers/export_csv_xls_worker.rb",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_it.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_jp.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_kr.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_mx.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_nl.html.haml",
-				"/Users/patze/Sites/homify/app/views/external_mailer/send_review_request_pl.html.haml",
-				"/Users/patze/Sites/homify/app/views/devise/mailer/reset_password_instructions_tr.html.haml",
+				"/Users/patze/Sites/homify/app/helpers/user_helper.rb",
+				"/Users/patze/Sites/homify/app/uploaders/avatar_uploader.rb",
+				"/Users/patze/Sites/homify/app/controllers/admin/photos_controller.rb",
+				"/Users/patze/Sites/homify/config/initializers/custom_cloud_uploader.rb",
+				"/Users/patze/Sites/homify/config/environment.rb",
+				"/Users/patze/Sites/homify/app/controllers/application_controller.rb",
+				"/Users/patze/Sites/homify/config/locales/en.yml",
+				"/Users/patze/Sites/homify/config.ru",
+				"/Users/patze/Sites/homify/db/migrate/20140110160147_substitute_umlaute_in_slugs.rb",
+				"/Users/patze/Sites/homify/lib/speaking_path_builder.rb",
+				"/Users/patze/Sites/homify/app/uploaders/homify_job_application_uploader.rb",
+				"/Users/patze/Sites/homify/app/models/shared/slug_trait.rb",
+				"/Users/patze/Sites/homify/config/locales/fr.yml",
+				"/Users/patze/Sites/homify/app/models/shared/calculate_user_activity_trait.rb",
+				"/Users/patze/Sites/homify/config/locales/pt.yml",
+				"/Users/patze/Sites/homify/lib/tasks/create_portrait_discussion_photos.rake",
+				"/Users/patze/Sites/homify/lib/tasks/map_product_categories.rake",
+				"/Users/patze/Sites/homify/app/mailers/devise_mailer.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/hash.rb",
+				"/Users/patze/Sites/homify/app/views/layouts/_header.html.haml",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/components/_header.sass",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/components/_header.md",
+				"/Users/patze/Sites/homify/app/views/layouts/_head.html.haml",
+				"/Users/patze/Sites/homify/config/locales/hk.yml",
+				"/Users/patze/Sites/homify/spec/spec_helper.rb",
+				"/Users/patze/Sites/homify/app/views/admin/plans/_form.html.haml",
+				"/Users/patze/Sites/homify/app/models/review_request/review_request_presenter.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/zeug.rb",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/patze/Sites/homify/app/models/impression.rb",
+				"/Users/patze/Sites/homify/config/locales/it.yml",
+				"/Users/patze/Sites/homify/spec/helpers/photo_helper_spec.rb",
+				"/Users/patze/Sites/homify/app/views/shared/photo/_photos_localized_js.html.erb",
+				"/Users/patze/Sites/homify/app/views/idea_books/index.html.haml",
+				"/Users/patze/Sites/homify/app/helpers/application_helper.rb",
+				"/Users/patze/Sites/homify/app/controllers/admin/idea_books_controller.rb",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/admin.css.sass",
+				"/Users/patze/Sites/homify/app/helpers/admin_helper.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/admin.js",
+				"/Users/patze/Sites/homify/features/project/admin.feature",
+				"/Users/patze/Sites/homify/db/migrate/20140213150729_add_default_meta_keywords_to_settings.rb",
+				"/Users/patze/Sites/homify/lib/image_cloud_uploader.rb",
+				"/Users/patze/Sites/homify/lib/sitemap_builder.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_ru.js",
+				"/Users/patze/Sites/homify/config/initializers/route_translator.rb",
+				"/Users/patze/Sites/homify/app/views/project/photos/_dynamic_form.html.haml",
+				"/Users/patze/Sites/homify/features/step_definitions/facebook_steps.rb",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/foundation_and_overrides.scss",
+				"/Users/patze/Sites/homify/config/locales/de.yml",
+				"/Users/patze/Sites/homify/config/environments/test.rb",
+				"/Users/patze/Sites/homify/config/globals/staging.yml",
+				"/Users/patze/Sites/homify/config/environments/staging.rb",
+				"/Users/patze/Sites/homify/config/deploy/staging.rb",
+				"/Users/patze/Sites/homify/config/deploy/production.rb",
+				"/Users/patze/Sites/homify/config/skylight.yml",
 				"/Users/patze/Sites/homify/config/locales/tr.yml",
-				"/Users/patze/Sites/homify/app/views/devise/mailer/reset_password_instructions_ru.html.haml",
-				"/Users/patze/Sites/homify/lib/tasks/rearrange_idea_book_photos_position.rake",
-				"/Users/patze/Sites/homify/config/locales/pt.yml"
+				"/Users/patze/Sites/homify/config/globals/development.yml",
+				"/Users/patze/Sites/homify/config/environments/development.rb",
+				"/Users/patze/Sites/homify/config/locales/ar.yml",
+				"/Users/patze/Sites/homify/config/locales/br.yml",
+				"/Users/patze/Sites/homify/config/locales/es.yml",
+				"/Users/patze/Sites/homify/config/locales/in.yml",
+				"/Users/patze/Sites/homify/config/locales/jp.yml",
+				"/Users/patze/Sites/homify/config/locales/kr.yml",
+				"/Users/patze/Sites/homify/config/locales/nl.yml",
+				"/Users/patze/Sites/homify/config/locales/pl.yml",
+				"/Users/patze/Sites/homify/lib/middleware/locale_detector.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_ar.js",
+				"/Users/patze/Sites/homify/app/views/layouts/application.html.haml"
 			],
 			"find":
 			{
@@ -883,6 +926,19 @@
 				"height": 93.0,
 				"where_history":
 				[
+					"",
+					"*.rb",
+					"",
+					"*.rb",
+					"",
+					"*.scss",
+					".scss",
+					"",
+					"*.sass",
+					"",
+					"/Users/patze/Sites/homify/spec",
+					"",
+					"/Users/patze/Sites/homify/features",
 					"",
 					"*.haml",
 					"",
@@ -959,134 +1015,134 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"\n\n\n      puts \"\\n\\nxxxxxxxxxxxx\\n\\n\"\n      puts \"run through routes ....\"\n      puts \"\\nxxxxxxxxxxxx\\n\\n\"\n\n\n      # if i18n_routes == {}\n      #   [:de, :en].each do |locale|\n      #     I18n.locale = locale\n      #     i18n_routes[locale.to_sym] ||= ActionDispatch::Routing::RouteSet.new\n      #   end\n      # end\n\n      # if i18n_routes == {}\n      #   [:de, :en].each do |locale|\n      #     I18n.locale = locale\n      #     i18n_routes[locale.to_sym] ||= ActionDispatch::Routing::RouteSet.new\n      #   end\n      # end\n\n      if @routes\n\n        puts \"\\n\\nxxxxxxxxxxxx\\n\\n\"\n        puts \"routes (noch) nicht da\"\n        puts \"\\nxxxxxxxxxxxx\\n\\n\"\n      else\n\n        puts \"\\n\\nxxxxxxxxxxxx\\n\\n\"\n        puts \"@routes geladen\"\n        puts \"\\nxxxxxxxxxxxx\\n\\n\"\n      end\n\n      I18n.locale = :de\n      @routes_de ||= ActionDispatch::Routing::RouteSet.new\n      @routes_de.append(&Proc.new) if block_given?\n\n      I18n.locale = :en\n      @routes_en ||= ActionDispatch::Routing::RouteSet.new\n      @routes_en.append(&Proc.new) if block_given?\n\n      I18n.locale = :ar\n      @routes_ar ||= ActionDispatch::Routing::RouteSet.new\n      @routes_ar.append(&Proc.new) if block_given?\n\n\n      I18n.locale = :fr\n      @routes_fr ||= ActionDispatch::Routing::RouteSet.new\n      @routes_fr.append(&Proc.new) if block_given?\n\n\n      I18n.locale = :pt\n      @routes_pt ||= ActionDispatch::Routing::RouteSet.new\n      @routes_pt.append(&Proc.new) if block_given?\n\n\n      I18n.locale = :es\n      @routes_es ||= ActionDispatch::Routing::RouteSet.new\n      @routes_es.append(&Proc.new) if block_given?\n\n\n      I18n.locale = :ru\n      @routes_ru ||= ActionDispatch::Routing::RouteSet.new\n      @routes_ru.append(&Proc.new) if block_given?\n\n\n      case I18n.locale\n        when :de\n          @routes = @routes_de\n        when :en\n          @routes = @routes_en\n        when :ar\n          @routes = @routes_ar\n        when :fr\n          @routes = @routes_fr\n        when :pt\n          @routes = @routes_pt\n        when :es\n          @routes = @routes_es\n        when :ru\n          @routes = @routes_ru\n      end\n\n\n      #@routes ||= ActionDispatch::Routing::RouteSet.new\n      #@routes.append(&Proc.new) if block_given?\n      #@routes\n\n      puts \"\\n\\nxxxxxxxxxxxx\\n\\n\"\n      puts \"rails route locale:\"\n      puts I18n.locale\n      puts \"\\nxxxxxxxxxxxx\\n\\n\"\n\n\n      puts \"\\n\\nxxxxxxxxxxxx\\n\\n\"\n      puts \"@routes_de :\"\n      puts @routes_de\n      puts \"@routes_en :\"\n      puts @routes_en\n      puts \"@routes_ar :\"\n      puts @routes_ar\n      puts \"@routes_fr :\"\n      puts @routes_fr\n      puts \"@routes_pt :\"\n      puts @routes_pt\n      puts \"@routes_es :\"\n      puts @routes_es\n      puts \"@routes_ru :\"\n      puts @routes_ru\n\n      puts \"@routes :\"\n      puts @routes\n      puts \"\\nxxxxxxxxxxxx\\n\\n\"",
-					"speaking",
-					"path:",
-					"case",
-					"Rails.application",
-					"speaking_professional",
-					"speaking_professional_path",
-					"def speaking_profile_path",
-					"speaking_profile_path",
-					"speaking_profile",
-					"speaking_profile_path",
-					"root",
-					"unsubscribe_text",
-					"off_notification",
-					"desactiver_notification",
-					"unsubscribe_text",
-					"@link",
-					"link",
-					"@link",
-					"unsubscribe_link",
-					"      Rails.application.reload_routes!\n",
-					"- ",
-					"rebuild_routes",
-					"old_locale",
-					"I18n.locale",
-					"I18n.locale = @user.locale",
-					"Rails.application.reload_routes!",
-					"old_locale !=",
-					"ensure_localilzed_routes",
-					"ensure",
-					"do_stuff_with_localized_routes",
-					"define_method",
-					"path",
-					"project",
-					"new_project_path",
-					"def new_project_path",
-					"new_project_path",
-					"new_project",
-					"photos",
-					"new_project",
-					"idea_books:",
-					"idea_books.path",
-					"speaking_idea_book",
-					"show_idea_book",
-					"localized_routes",
-					"localized_routes_stuff_with",
-					"do_localized_stuff_with",
-					"standard_i18n_rest_scope",
-					"speaking_photo",
-					"show_project_photo",
-					"redirects",
-					"speaking_professional",
-					"speaking_professional_path",
-					"def speaking_profile_path",
-					"speaking_profile_path",
-					"DOMAIN_LOCALES",
-					"reload_routes!",
-					"do_localized_stuff_with",
-					"send_message",
-					"@sender_name_or_link",
-					"link_relative",
-					"routes_changed",
-					"needs_routes_reload",
-					"routes_changed",
-					"needs_routes_reload",
-					"PathHelper",
-					"speaking_profile_path",
-					"absolute_url",
-					"- ",
-					"ling",
-					"link",
-					"send_account_activated",
-					"speaking_discussion",
-					"reset_password_instructions",
-					"find_seo",
-					"reload",
-					"reset",
-					"def absolute_url",
-					"@host = Rails.env.staging? ? \"https://staging.homify.de\" : \"https://www.homify.de\"",
-					"show",
-					"speaking_discussion",
-					"SpeakingPathBuilder",
-					"speaking",
-					"show_discussion",
-					"def show_discussion",
-					"def show_discussion_path",
-					"show_discussion_path",
-					"contact_path",
-					"show_discussion_path",
-					"facebook_url",
-					"instagram_url",
-					"send_review_request",
-					"header",
-					"send_export_file",
-					"send_review_request_",
-					"welcome",
-					"pathhelper",
-					"%p",
-					"/shared/mailer/simple_footer",
-					"confirmation_instructions",
-					"absolute_url",
-					"edit_password_path",
-					"def confirmation_path",
-					"confirmation_path",
-					"edit_password_path",
-					"ignore_text_",
-					"absolute_host_",
-					"def absolute_url",
-					"reset_password_instructions",
-					"reset_passw",
-					"confirmation_instruc",
-					"override_locale",
-					"variable_name",
-					"mail",
-					"confirmation_instructions",
-					"absolute_url",
-					"send_confirmation_instructions",
-					"confirm",
-					".login--separator",
-					"confirmation_inst",
-					"\"\"",
-					"jobs",
-					"signup",
-					"confirmations.send_instructions",
-					"confirmation_instruc",
-					"БЕСПЛА",
-					"/assets/",
-					"light.woff"
+					"cloudfront",
+					"cloudfri",
+					"end",
+					"i154",
+					"miro",
+					"calcu",
+					"set_main_colors",
+					"calcu",
+					"miro",
+					"cover_photo_color",
+					"color_",
+					"color",
+					"miro",
+					"abc",
+					"letter",
+					"file_url",
+					"Miro",
+					"cover_photo_color",
+					"def cover_photo_color",
+					"cover_photo_color",
+					"hex",
+					"color",
+					"calculate_color_and_size",
+					".calculate_size",
+					"calculate_size",
+					"original_height",
+					"ProcessProfilePhotoBackgroundColorWorker",
+					"queue_background_color_processing",
+					"color",
+					"mount_custom_image_uploader",
+					"klass",
+					"klass_name",
+					"], [",
+					", ",
+					"c[0] << 16",
+					"huhu",
+					"klass",
+					"**",
+					".url",
+					"retina_image_tag",
+					".url",
+					"retina_image_tag",
+					"retina_image_tag img",
+					"retina_image",
+					"homify",
+					"PhotoImageProcessorWorker",
+					"queue_processing",
+					"update_counter_cache",
+					"PhotoCounterCacheWorker",
+					"does 'sanitize', :description",
+					"description",
+					"attribute_name :",
+					"does 'sanitize', :description",
+					"extra_tags_allowed",
+					"unfeature",
+					"unfeature!",
+					"unfeature",
+					"extra_tags_allowed",
+					"edit-ideabook-photos--item-content",
+					", [",
+					"color_",
+					"calculate_colors",
+					"image",
+					"calculate_size",
+					"file_url",
+					"colors",
+					"get_image",
+					"ProcessProfilePhotoBackgroundColorWorker",
+					"queue_background_color_processing",
+					"PhotoImageProcessorWorker",
+					"def queue_processing",
+					"column_string",
+					"check_and_cache_file",
+					"is_a_string",
+					"is_pre_uploading",
+					"mounted_column_present",
+					".url",
+					"image_tag",
+					"index_taggings_on_tag_id",
+					"add_index",
+					".image.url",
+					"retina_im",
+					"string",
+					"ALL_VERSIONS__TEASER",
+					"TeaserImageUploader",
+					"sq",
+					"rescue",
+					"try",
+					"catch",
+					"raise",
+					"cache_file",
+					"column_for",
+					"self.id :",
+					"column :",
+					"name",
+					"build_resource",
+					"def build_resource",
+					"build_resource",
+					"BASEUPLOADER",
+					"tags:",
+					"homify-upload",
+					"base_tag",
+					"cloudinary",
+					"skylight",
+					"carrierwave_uploader_class.name",
+					"def default_img",
+					"default_img",
+					"\"",
+					"mount_",
+					"ALL_IMAGE_VERSIONS",
+					"column",
+					"handle_cloud_upload",
+					"send",
+					"ALL_VERSIONS__PHOTOS",
+					"single_version",
+					"clearfix",
+					"ALL_VERSIONS__AVATAR",
+					":",
+					"devise_for",
+					"transform",
+					"}",
+					"{",
+					":",
+					"i72x72",
+					".avatar",
+					"img_class",
+					"i556x376",
+					"w400"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1094,6 +1150,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"homify",
+					"show_idea_book",
+					"show_project_photo",
+					"'mailer.",
 					"action_buttons_expert",
 					"",
 					"href=\"mailto:",
@@ -1128,11 +1188,11 @@
 			},
 			"output.run_result":
 			{
-				"height": 110.0
+				"height": 379.0
 			},
 			"replace":
 			{
-				"height": 46.0
+				"height": 72.0
 			},
 			"save_all_on_build": false,
 			"select_file":
@@ -1141,516 +1201,516 @@
 				"selected_items":
 				[
 					[
-						"sendrec",
-						"app/views/user_mailer/send_review_created.html.haml"
+						"prof",
+						"app/models/professional.rb"
 					],
 					[
-						"ro",
-						"config/routes.rb"
+						"user",
+						"app/models/user.rb"
 					],
 					[
-						"snedre",
-						"app/views/external_mailer/send_review_request.html.haml"
-					],
-					[
-						"senddisc",
-						"app/views/user_mailer/send_discussion_comment_created.html.haml"
-					],
-					[
-						"ext",
-						"app/mailers/external_mailer.rb"
-					],
-					[
-						"devel",
-						"config/environments/development.rb"
-					],
-					[
-						"send_account_activated",
-						"app/views/user_mailer/send_account_activated.html.haml"
-					],
-					[
-						"rout",
-						"config/locales/routes.de.yml"
-					],
-					[
-						"sendcom",
-						"app/views/user_mailer/send_comment_created.html.haml"
+						"usercon",
+						"app/controllers/users_controller.rb"
 					],
 					[
 						"gem",
 						"Gemfile"
 					],
 					[
-						"sendrecr",
-						"app/views/user_mailer/send_review_created.html.haml"
+						"clo",
+						"config/cloudinary.yml"
 					],
 					[
-						"sendpa",
-						"app/views/user_mailer/send_password_change.html.haml"
+						"sa",
+						"app/models/shared/sanitize_trait.rb"
 					],
 					[
-						"discussions",
-						"app/controllers/discussions_controller.rb"
+						"sani",
+						"app/models/shared/sanitize_trait.rb"
 					],
 					[
-						"senddico",
-						"app/views/user_mailer/send_discussion_comment_created.html.haml"
+						"quick",
+						"app/assets/stylesheets/_quickfixes.sass"
 					],
 					[
-						"senddiscr",
-						"app/views/user_mailer/send_discussion_created.html.haml"
+						"migrate",
+						"lib/tasks/migrate_photo_assets_to_cloudinary.rake"
 					],
 					[
-						"sendma",
-						"app/views/user_mailer/send_message.html.haml"
+						"addtem",
+						"db/migrate/20150408094253_add_temp_cloudinary_to_photos.rb"
 					],
 					[
-						"sendis",
-						"app/views/user_mailer/send_discussion_created.html.haml"
+						"root",
+						"app/views/discussions/_root_discussion.html.haml"
 					],
 					[
-						"sendme",
-						"app/views/user_mailer/send_message.html.haml"
+						"oject/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
 					],
 					[
-						"send_review_created",
-						"app/views/user_mailer/send_review_created.html.haml"
-					],
-					[
-						"base",
-						"config/locales/base.in.yml"
-					],
-					[
-						"send_comment_created",
-						"app/views/user_mailer/send_comment_created.html.haml"
-					],
-					[
-						"send_discussion_comment_created",
-						"app/views/user_mailer/send_discussion_comment_created.html.haml"
-					],
-					[
-						"send_discussion_created",
-						"app/views/user_mailer/send_discussion_created.html.haml"
-					],
-					[
-						"devisma",
-						"app/mailers/devise_mailer.rb"
+						"env",
+						"config/environment.rb"
 					],
 					[
 						"appc",
 						"app/controllers/application_controller.rb"
 					],
 					[
-						"de",
-						"config/locales/de.yml"
+						"en",
+						"config/environment.rb"
 					],
 					[
-						"appco",
-						"app/controllers/application_controller.rb"
+						"conf",
+						"config.ru"
 					],
 					[
-						"send_message",
-						"app/views/user_mailer/send_message.html.haml"
-					],
-					[
-						"send_profile_completion_reminder",
-						"app/views/user_mailer/send_profile_completion_reminder.html.haml"
-					],
-					[
-						"rou",
+						"rout",
 						"config/routes.rb"
-					],
-					[
-						"appcont",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"devise",
-						"app/mailers/devise_mailer.rb"
-					],
-					[
-						"routes",
-						"config/routes.rb"
-					],
-					[
-						"sendpass",
-						"app/views/user_mailer/send_password_change.html.haml"
-					],
-					[
-						"url",
-						"app/helpers/url_helper.rb"
-					],
-					[
-						"sendrev",
-						"app/views/external_mailer/send_review_request_es.html.haml"
-					],
-					[
-						"sendre",
-						"app/views/external_mailer/send_review_request_fr.html.haml"
-					],
-					[
-						"sendrevi",
-						"app/views/external_mailer/send_review_request_de.html.haml"
-					],
-					[
-						"user",
-						"app/mailers/user_mailer.rb"
-					],
-					[
-						"reviw",
-						"features/professional/review_request.feature"
 					],
 					[
 						"us",
 						"app/models/user.rb"
 					],
 					[
-						"blue",
-						"spec/support/blueprints.rb"
+						"user.",
+						"app/models/user.rb"
 					],
 					[
-						"rev",
-						"app/models/review_request.rb"
+						"bas",
+						"app/uploaders/base_uploader.rb"
 					],
 					[
-						"loca",
-						"lib/middleware/locale_detector.rb"
+						"spe",
+						"lib/speaking_path_builder.rb"
 					],
 					[
-						"extr",
-						"app/mailers/external_mailer.rb"
+						"phoub",
+						"app/uploaders/photo_image_uploader.rb"
 					],
 					[
-						"send_review_request_",
-						"app/views/external_mailer/send_review_request_br.html.haml"
+						"roject/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
 					],
 					[
-						"tr",
-						"config/locales/tr.yml"
+						"header",
+						"app/views/layouts/_header.html.haml"
 					],
 					[
-						"ru",
-						"config/locales/ru.yml"
+						"head",
+						"app/views/layouts/_head.html.haml"
 					],
 					[
-						"pt",
-						"config/locales/pt.yml"
-					],
-					[
-						"pl",
-						"config/locales/pl.yml"
-					],
-					[
-						"nl",
-						"config/locales/nl.yml"
-					],
-					[
-						"mx",
-						"config/locales/mx.yml"
-					],
-					[
-						"kr",
-						"config/locales/kr.yml"
-					],
-					[
-						"jp",
-						"config/locales/jp.yml"
-					],
-					[
-						"it",
-						"config/locales/it.yml"
-					],
-					[
-						"fr",
-						"config/locales/fr.yml"
-					],
-					[
-						"es",
-						"config/locales/es.yml"
-					],
-					[
-						"hk",
-						"config/locales/hk.yml"
-					],
-					[
-						"in",
-						"config/locales/in.yml"
-					],
-					[
-						"sg",
-						"config/locales/sg.yml"
-					],
-					[
-						"en",
-						"config/locales/en.yml"
-					],
-					[
-						"br",
-						"config/locales/br.yml"
-					],
-					[
-						"path",
-						"app/helpers/path_helper.rb"
-					],
-					[
-						"ar",
-						"config/locales/ar.yml"
-					],
-					[
-						"simpl",
-						"app/views/shared/mailer/_simple_footer.html.haml"
-					],
-					[
-						"ward",
-						"lib/middleware/locale_detector.rb"
-					],
-					[
-						"confi_en",
-						"app/views/devise/mailer/confirmation_instructions_en.html.haml"
-					],
-					[
-						"conf",
-						"app/views/devise/mailer/confirmation_instructions_de.html.haml"
-					],
-					[
-						"ge",
-						"Gemfile"
-					],
-					[
-						"sendc",
-						"app/views/user_mailer/send_comment_created.html.haml"
-					],
-					[
-						"reg",
-						"app/controllers/auth/registrations_controller.rb"
-					],
-					[
-						"devisde",
-						"config/locales/devise.de.yml"
-					],
-					[
-						"news",
-						"app/views/devise/registrations/new_signup_expert.html.haml"
-					],
-					[
-						"appcon",
-						"app/controllers/application_controller.rb"
-					],
-					[
-						"applhel",
-						"app/helpers/application_helper.rb"
-					],
-					[
-						"authre",
-						"app/controllers/auth/registrations_controller.rb"
-					],
-					[
-						"dejp",
-						"config/locales/devise.jp.yml"
+						"imagecl",
+						"lib/image_cloud_uploader.rb"
 					],
 					[
 						"apphe",
 						"app/helpers/application_helper.rb"
 					],
 					[
-						"depl",
-						"config/locales/devise.pl.yml"
+						"photo",
+						"app/uploaders/photo_image_uploader.rb"
 					],
 					[
-						"deru",
-						"config/locales/devise.ru.yml"
+						"photr",
+						"app/models/photo.rb"
 					],
 					[
-						"detr",
-						"config/locales/devise.tr.yml"
-					],
-					[
-						"denl",
-						"config/locales/devise.nl.yml"
-					],
-					[
-						"dekr",
-						"config/locales/devise.kr.yml"
-					],
-					[
-						"debr",
-						"config/locales/devise.br.yml"
-					],
-					[
-						"dept",
-						"config/locales/devise.pt.yml"
-					],
-					[
-						"dear",
-						"config/locales/devise.ar.yml"
-					],
-					[
-						"demx",
-						"config/locales/devise.mx.yml"
-					],
-					[
-						"dees",
-						"config/locales/devise.es.yml"
-					],
-					[
-						"deit",
-						"config/locales/devise.it.yml"
-					],
-					[
-						"defr",
-						"config/locales/devise.fr.yml"
-					],
-					[
-						"dehk",
-						"config/locales/devise.hk.yml"
-					],
-					[
-						"desg",
-						"config/locales/devise.sg.yml"
-					],
-					[
-						"dein",
-						"config/locales/devise.in.yml"
-					],
-					[
-						"devis",
-						"config/locales/devise.en.yml"
-					],
-					[
-						"layo",
-						"app/assets/stylesheets/views/_layout.sass"
-					],
-					[
-						"sign",
-						"app/views/static/general/signup_expert.html.haml"
-					],
-					[
-						"faq",
-						"app/views/static/faq.html.haml"
-					],
-					[
-						"ar/fa",
-						"app/views/static/ar/faq.html.haml"
-					],
-					[
-						"mx/fa",
-						"app/views/static/mx/faq.html.haml"
-					],
-					[
-						"land",
-						"app/assets/stylesheets/views/_landing-page.sass"
-					],
-					[
-						"faq.",
-						"app/views/static/faq.html.haml"
-					],
-					[
-						"ru/fa",
-						"app/views/static/ru/faq.html.haml"
-					],
-					[
-						"pl/fa",
-						"app/views/static/pl/faq.html.haml"
-					],
-					[
-						"nl/f",
-						"app/views/static/nl/faq.html.haml"
-					],
-					[
-						"tr/fq",
-						"app/views/static/tr/faq.html.haml"
-					],
-					[
-						"jp/faq",
-						"app/views/static/jp/faq.html.haml"
-					],
-					[
-						"kr/fa",
-						"app/views/static/kr/faq.html.haml"
-					],
-					[
-						"br/fa",
-						"app/views/static/br/faq.html.haml"
-					],
-					[
-						"pt/f",
-						"app/views/static/pt/faq.html.haml"
-					],
-					[
-						"es/fa",
-						"app/views/static/es/faq.html.haml"
-					],
-					[
-						"fr/fa",
-						"app/views/static/fr/faq.html.haml"
-					],
-					[
-						"itfa",
-						"app/views/static/it/faq.html.haml"
-					],
-					[
-						"en/faq",
-						"app/views/static/en/faq.html.haml"
-					],
-					[
-						"staticco",
-						"app/controllers/static_controller.rb"
-					],
-					[
-						"shared/photo/photo_content",
-						"app/views/shared/photo/_photo_content.html.haml"
-					],
-					[
-						"project/photos/show.html.haml",
-						"app/views/project/photos/show.html.haml"
-					],
-					[
-						"photoscontr",
-						"app/controllers/project/photos_controller.rb"
-					],
-					[
-						"photoscon",
-						"app/controllers/admin/photos_controller.rb"
-					],
-					[
-						"static_links",
-						"app/views/layouts/_static_links.html.haml"
-					],
-					[
-						"routes.r",
+						"r",
 						"config/routes.rb"
 					],
 					[
 						"rot",
-						"app/models/idea_book_root_tag.rb"
+						"config/initializers/route_translator.rb"
 					],
 					[
-						"foo",
+						"dyn",
+						"app/views/project/photos/_dynamic_form.html.haml"
+					],
+					[
+						"stagi",
+						"config/globals/staging.yml"
+					],
+					[
+						"prod",
+						"config/globals/production.yml"
+					],
+					[
+						"tes",
+						"config/globals/test.yml"
+					],
+					[
+						"test",
+						"config/environments/test.rb"
+					],
+					[
+						"dev",
+						"config/globals/development.yml"
+					],
+					[
+						"app",
+						"config/application.rb"
+					],
+					[
+						"de",
+						"config/locales/de.yml"
+					],
+					[
+						"dynamic_form.html",
+						"app/views/project/photos/_dynamic_form.html.haml"
+					],
+					[
+						"loc",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"photosc",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"appli",
+						"config/application.rb"
+					],
+					[
+						"appr",
+						"app/assets/javascripts/application_ru.js"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"base",
+						"app/uploaders/base_uploader.rb"
+					],
+					[
+						"ava",
+						"app/uploaders/avatar_uploader.rb"
+					],
+					[
+						"hoto",
+						"app/models/photo.rb"
+					],
+					[
+						"pho",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"ct/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"avat",
+						"app/uploaders/avatar_uploader.rb"
+					],
+					[
+						"idea_book_photo.html.haml",
+						"app/views/idea_book_photos/_idea_book_photo.html.haml"
+					],
+					[
+						"local",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"speis",
+						"app/views/admin/_speisen.html.haml"
+					],
+					[
+						"haupt",
+						"app/views/admin/haupt.html.haml"
+					],
+					[
+						"ud",
+						"app/views/admin/update_mittag.haml"
+					],
+					[
+						"must",
+						"db/migrate/20140116178547_add_autodeactivate_to_closed_events.rb"
+					],
+					[
+						"adm",
+						"app/controllers/admin_controller.rb"
+					],
+					[
+						"appco",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"foot",
 						"app/views/layouts/_footer.html.haml"
 					],
 					[
-						"r",
-						"config/locales/ru.yml"
+						"photc",
+						"app/controllers/project/photos_controller.rb"
 					],
 					[
-						"routede",
+						"phot",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"capy",
+						"features/support/capybara.rb"
+					],
+					[
+						"photoscon",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"projetile",
+						"app/views/shared/projects/_project_tile.html.haml"
+					],
+					[
+						"cap",
+						"features/support/capybara.rb"
+					],
+					[
+						"eatures/step_definitions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"lock",
+						"Gemfile.lock"
+					],
+					[
+						"gemf",
+						"Gemfile.lock"
+					],
+					[
+						"teaserimageuploader",
+						"app/uploaders/teaser_image_uploader.rb"
+					],
+					[
+						"rode",
 						"config/locales/routes.de.yml"
 					],
 					[
-						"route",
-						"config/locales/routes.pt.yml"
+						"applco",
+						"app/controllers/application_controller.rb"
 					],
 					[
-						"rout.ru",
-						"config/locales/routes.ru.yml"
+						"loca",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"sp",
+						"lib/speaking_path_builder.rb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"commentcre",
+						"app/views/user_mailer/send_comment_created.html.haml"
+					],
+					[
+						"disscomcr",
+						"app/views/user_mailer/send_discussion_comment_created.html.haml"
+					],
+					[
+						"disscrea",
+						"app/views/user_mailer/send_discussion_created.html.haml"
+					],
+					[
+						"revc",
+						"app/views/user_mailer/send_review_created.html.haml"
+					],
+					[
+						"disscomc",
+						"app/views/user_mailer/send_discussion_comment_created.html.haml"
+					],
+					[
+						"apphel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"appcont",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"send",
+						"app/views/user_mailer/send_discussion_created.html.haml"
+					],
+					[
+						"rese",
+						"app/views/devise/mailer/reset_password_instructions.html.haml"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"es/support/paths.rb",
+						"features/support/paths.rb"
+					],
+					[
+						"itions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"applhe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"applcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"maifoo",
+						"app/views/shared/mailer/_footer.html.haml"
+					],
+					[
+						"welcome",
+						"app/views/user_mailer/send_profile_completion_reminder.html.haml"
+					],
+					[
+						"simp",
+						"app/views/shared/mailer/_simple_footer.html.haml"
+					],
+					[
+						"sendre",
+						"app/views/user_mailer/send_review_created.html.haml"
+					],
+					[
+						"pathhelper",
+						"app/helpers/path_helper.rb"
+					],
+					[
+						"upport/paths.rb",
+						"features/support/paths.rb"
+					],
+					[
+						"user_mailer.rb",
+						"app/mailers/user_mailer.rb"
+					],
+					[
+						"ers/idea_book_photos_controller.rb",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"web",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"use",
+						"app/mailers/user_mailer.rb"
+					],
+					[
+						"elpers/admin_helper.rb",
+						"app/helpers/admin_helper.rb"
+					],
+					[
+						"admin/comments/index.html.haml",
+						"app/views/admin/comments/index.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"idea_book_photos",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"proj",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"/step_definitions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"features/admin/comments.feature",
+						"features/admin/comments.feature"
 					],
 					[
 						"appl",
 						"app/views/layouts/application.html.haml"
 					],
 					[
-						"devi",
-						"config/locales/devise.de.yml"
+						"speaking_path_builder.rb",
+						"lib/speaking_path_builder.rb"
+					],
+					[
+						"ideabookphotoscontroller",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"rouar",
+						"config/locales/routes.ar.yml"
+					],
+					[
+						"rofr",
+						"config/locales/routes.fr.yml"
+					],
+					[
+						"roen",
+						"config/locales/routes.en.yml"
+					],
+					[
+						"static",
+						"app/views/layouts/_static_links.html.haml"
+					],
+					[
+						"foo",
+						"app/views/layouts/_footer.html.haml"
+					],
+					[
+						"robr",
+						"config/locales/routes.br.yml"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"lo",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"userc",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"routede",
+						"config/locales/routes.de.yml"
+					],
+					[
+						"icons",
+						"lib/tasks/icons.rake"
+					],
+					[
+						"signup-expert.sass",
+						"app/assets/stylesheets/views/_signup-expert.sass"
+					],
+					[
+						"sta",
+						"config/environments/staging.rb"
+					],
+					[
+						"shaba",
+						"app/views/shared/_badges.html.haml"
+					],
+					[
+						"frbad",
+						"app/views/static/fr/badges.html.haml"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"tr",
+						"config/locales/tr.yml"
+					],
+					[
+						"sg",
+						"config/locales/sg.yml"
 					]
 				],
 				"width": 0.0
@@ -1695,7 +1755,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": false,
-			"side_bar_width": 324.0,
+			"side_bar_width": 274.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -1705,6 +1765,2057 @@
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"item",
+						"item_category"
+					],
+					[
+						"to",
+						"to_sym"
+					],
+					[
+						"kl",
+						"klass_name"
+					],
+					[
+						"me",
+						"method_args"
+					],
+					[
+						"sanit",
+						"sanitizer"
+					],
+					[
+						"sani",
+						"sanitized"
+					],
+					[
+						"mou",
+						"mounted_column"
+					],
+					[
+						"is",
+						"is_correct_type"
+					],
+					[
+						"all",
+						"allowed_img_types"
+					],
+					[
+						"con",
+						"content_type"
+					],
+					[
+						"ite",
+						"item_id"
+					],
+					[
+						"to_",
+						"to_sym"
+					],
+					[
+						"com",
+						"column_string"
+					],
+					[
+						"co",
+						"column_sym"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"up",
+						"update_columns"
+					],
+					[
+						"is_a",
+						"is_a_string"
+					],
+					[
+						"ca",
+						"cached_file"
+					],
+					[
+						"Di",
+						"DiscussionPhotoUploader"
+					],
+					[
+						"va",
+						"values"
+					],
+					[
+						"ver",
+						"versions_hash"
+					],
+					[
+						"get",
+						"get_orientation"
+					],
+					[
+						"A",
+						"ALL_VERSIONS__DISCUSSION"
+					],
+					[
+						"im",
+						"img_versions_hash"
+					],
+					[
+						"i",
+						"i1920x900"
+					],
+					[
+						"w",
+						"w554"
+					],
+					[
+						"tr",
+						"tranfs"
+					],
+					[
+						"el",
+						"element"
+					],
+					[
+						"in",
+						"inspect"
+					],
+					[
+						"sel",
+						"select"
+					],
+					[
+						"fla",
+						"flatten"
+					],
+					[
+						"fl",
+						"flatten"
+					],
+					[
+						"tra",
+						"transform"
+					],
+					[
+						"mod",
+						"modifications"
+					],
+					[
+						"mo",
+						"modifications"
+					],
+					[
+						"re",
+						"required_versions"
+					],
+					[
+						"edit",
+						"edit-photos--item-photo"
+					],
+					[
+						"raw",
+						"raw_text"
+					],
+					[
+						"wi",
+						"width"
+					],
+					[
+						"file",
+						"file_url"
+					],
+					[
+						"ro",
+						"route_time"
+					],
+					[
+						"ne",
+						"new_locale"
+					],
+					[
+						"week",
+						"weekcard"
+					],
+					[
+						"url",
+						"url_for"
+					],
+					[
+						"res",
+						"resource"
+					],
+					[
+						"incl",
+						"inlcusive_www"
+					],
+					[
+						"inc",
+						"inlcusive_www"
+					],
+					[
+						"prodt",
+						"production"
+					],
+					[
+						"git",
+						"github"
+					],
+					[
+						"ide",
+						"ideabooks"
+					],
+					[
+						"photos",
+						"photos_selected"
+					],
+					[
+						"dete",
+						"LocaleDetector"
+					],
+					[
+						"pro",
+						"process_async"
+					],
+					[
+						"addr",
+						"address"
+					],
+					[
+						"image_",
+						"image_tag"
+					],
+					[
+						"image",
+						"image_path"
+					],
+					[
+						"id",
+						"ideabooks"
+					],
+					[
+						"pr",
+						"professional_locale"
+					],
+					[
+						"revie",
+						"review_request"
+					],
+					[
+						"sen",
+						"send_account_activated"
+					],
+					[
+						"lo",
+						"locale"
+					],
+					[
+						"sta",
+						"standard_i18n_rest_scope"
+					],
+					[
+						"I",
+						"I18n"
+					],
+					[
+						"lin",
+						"link_target"
+					],
+					[
+						"send",
+						"send_confirmation_instructions"
+					],
+					[
+						"sign",
+						"sign_up_expert"
+					],
+					[
+						"si",
+						"signup_expert_errors"
+					],
+					[
+						"ret",
+						"retina_source"
+					],
+					[
+						"so",
+						"source"
+					],
+					[
+						"bear",
+						"bearbeiten"
+					],
+					[
+						"is_",
+						"is_signup_expert"
+					],
+					[
+						"sig",
+						"signup_expert"
+					],
+					[
+						"sing",
+						"signup_expert"
+					],
+					[
+						"ex",
+						"expert"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"bu",
+						"business_type"
+					],
+					[
+						"fea",
+						"featured_idea_books"
+					],
+					[
+						"st",
+						"sticky_ideabooks"
+					],
+					[
+						"uns",
+						"unsubscribe"
+					],
+					[
+						"p",
+						"public_name"
+					],
+					[
+						"disc",
+						"discussion_notification"
+					],
+					[
+						"dis",
+						"discussion_created"
+					],
+					[
+						"link",
+						"link_text"
+					],
+					[
+						"rou",
+						"routes_changed"
+					],
+					[
+						"password",
+						"password_changed"
+					],
+					[
+						"ins",
+						"instagram_url"
+					],
+					[
+						"e",
+						"ejemplo"
+					],
+					[
+						"tw",
+						"twitter_url"
+					],
+					[
+						"cu",
+						"custom_sanitize_"
+					],
+					[
+						"sanitz",
+						"sanitize_method_name"
+					],
+					[
+						"san",
+						"sanitize_config"
+					],
+					[
+						"att",
+						"attribute_name"
+					],
+					[
+						"cus",
+						"custom_sanitzer_config"
+					],
+					[
+						"opt",
+						"options"
+					],
+					[
+						"op",
+						"options"
+					],
+					[
+						"categ",
+						"category_slug"
+					],
+					[
+						"local",
+						"localized_category"
+					],
+					[
+						"sty",
+						"style_slug"
+					],
+					[
+						"pa",
+						"path"
+					],
+					[
+						"filter",
+						"filter_name"
+					],
+					[
+						"cat",
+						"category_filter"
+					],
+					[
+						"style",
+						"style_slug"
+					],
+					[
+						"cate",
+						"category_slug"
+					],
+					[
+						"sub",
+						"sub_category_filter"
+					],
+					[
+						"stlye",
+						"style_location"
+					],
+					[
+						"styl",
+						"styles"
+					],
+					[
+						"new",
+						"new_url"
+					],
+					[
+						"old",
+						"old_domain"
+					],
+					[
+						"discussion",
+						"discussion_topic"
+					],
+					[
+						"Dis",
+						"DisscussionNotification"
+					],
+					[
+						"disss",
+						"discussion"
+					],
+					[
+						"redi",
+						"redirect_to"
+					],
+					[
+						"show",
+						"show_discussion_path"
+					],
+					[
+						"update",
+						"update_create_discussion_notification"
+					],
+					[
+						"dus",
+						"discussion"
+					],
+					[
+						"diss",
+						"discussions"
+					],
+					[
+						"an",
+						"andand"
+					],
+					[
+						"end",
+						"end_of_association_chain"
+					],
+					[
+						"fil",
+						"file_content"
+					],
+					[
+						"retu",
+						"return_code"
+					],
+					[
+						"std",
+						"stderr"
+					],
+					[
+						"s",
+						"stdout"
+					],
+					[
+						"top",
+						"top_5"
+					],
+					[
+						"di",
+						"displayName"
+					],
+					[
+						"na",
+						"nameWithApiary"
+					],
+					[
+						"set_",
+						"set_template"
+					],
+					[
+						"ap",
+						"api_url"
+					],
+					[
+						"ch",
+						"channel_params"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/patze/Sites/homify/app/models/photo.rb",
+					"settings":
+					{
+						"buffer_size": 12483,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/config/globals/staging.yml",
+					"settings":
+					{
+						"buffer_size": 10971,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/lib/image_cloud_uploader.rb",
+					"settings":
+					{
+						"buffer_size": 1435,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/app/helpers/application_helper.rb",
+					"settings":
+					{
+						"buffer_size": 31209,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/lib/tasks/migrate_photo_assets_to_cloudinary.rake",
+					"settings":
+					{
+						"buffer_size": 595,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/config/initializers/custom_image_uploader.rb",
+					"settings":
+					{
+						"buffer_size": 6614,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/patze/Sites/homify/app/views/project/photos/_dynamic_form.html.haml",
+					"settings":
+					{
+						"buffer_size": 8016,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"RUB",
+						"Set Syntax: Ruby"
+					],
+					[
+						"bla",
+						"Git: Blame"
+					],
+					[
+						"del",
+						"File: Delete"
+					],
+					[
+						"re",
+						"File: Rename"
+					],
+					[
+						"rub",
+						"Set Syntax: Ruby"
+					],
+					[
+						"blam",
+						"Git: Blame"
+					],
+					[
+						"ren",
+						"File: Rename"
+					],
+					[
+						"mov",
+						"File: Move"
+					],
+					[
+						"de",
+						"File: Delete"
+					],
+					[
+						"ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pa",
+						"Package Control: Remove Package"
+					],
+					[
+						"mo",
+						"File: Move"
+					],
+					[
+						"move",
+						"File: Move"
+					],
+					[
+						"du",
+						"File: Duplicate"
+					],
+					[
+						"insa",
+						"Package Control: Install Package"
+					],
+					[
+						"blame",
+						"Git: Blame"
+					],
+					[
+						"ruby",
+						"Set Syntax: Ruby"
+					],
+					[
+						"yml",
+						"Set Syntax: YAML"
+					],
+					[
+						"sass",
+						"Set Syntax: Sass"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"htm",
+						"HTML: Encode Special Characters"
+					],
+					[
+						"bkam",
+						"Bookmarks: Clear All"
+					],
+					[
+						"te",
+						"Text Pastry: From 1 To X"
+					],
+					[
+						"text",
+						"Text Pastry: From 1 To X"
+					],
+					[
+						"pas",
+						"Text Pastry: From 1 To X"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"bl",
+						"Set Syntax: Git Blame"
+					],
+					[
+						"git",
+						"Git: Blame"
+					],
+					[
+						"r",
+						"Set Syntax: Ruby"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insat",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Preferences: Browse Packages"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"ja",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"upda",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"coffe",
+						"Set Syntax: CoffeeScript"
+					],
+					[
+						"app",
+						"Git: Stash Apply"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"syn ru",
+						"Set Syntax: Ruby"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"syn js",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"path",
+						"Copy File Path"
+					],
+					[
+						"team",
+						"RubyTest: Generate Rails Migration"
+					],
+					[
+						"rena",
+						"File: Rename"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 538.0
+			},
+			"console":
+			{
+				"height": 434.0,
+				"history":
+				[
+					"hi",
+					"d"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/patze/Sites/homify",
+				"/Users/patze/Sites/homify/app",
+				"/Users/patze/Sites/homify/app/controllers",
+				"/Users/patze/Sites/homify/app/uploaders",
+				"/Users/patze/Sites/homify/lib",
+				"/Users/patze/Sites/homify/lib/tasks"
+			],
+			"file_history":
+			[
+				"/Users/patze/Sites/homify/config/initializers/miro.rb",
+				"/Users/patze/Sites/homify/app/workers/process_profile_photo_background_color_worker.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/miro-cloudinary color comparison",
+				"/Users/patze/Sites/homify/lib/tasks/calculate_color_and_size.rake",
+				"/Users/patze/Sites/homify/app/models/professional.rb",
+				"/Users/patze/Sites/homify/app/controllers/users_controller.rb",
+				"/Users/patze/Sites/homify/db/migrate/20141114173044_add_profile_photo_background_color.rb",
+				"/Users/patze/Sites/homify/config/environments/production.rb",
+				"/Users/patze/Sites/homify/app/controllers/project/photos_controller.rb",
+				"/Users/patze/Sites/homify/Gemfile",
+				"/Users/patze/Sites/homify/app/models/user.rb",
+				"/Users/patze/Sites/homify/app/mailers/user_mailer.rb",
+				"/private/var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/nspect :",
+				"/var/folders/5h/n0q5gb050b51mxvn0r_6b9k80000gn/T/irb_tempfile20150409-59698-1xqs6h9.rb",
+				"/Users/patze/Sites/homify/app/models/discussion_photo.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/angular/controllers/sub_category_product_controller.js.coffee",
+				"/Users/patze/Sites/homify/spec/lib/ruby_created_at_spec.rb",
+				"/Users/patze/Sites/homify/config/locales/ru.yml",
+				"/Users/patze/Sites/homify/config/routes.rb",
+				"/Users/patze/Sites/homify/app/models/seo_element.rb",
+				"/Users/patze/Sites/homify/app/workers/photo_counter_cache_worker.rb",
+				"/Users/patze/Sites/homify/app/workers/photo_image_processor_worker.rb",
+				"/Users/patze/Sites/homify/config/cloudinary.yml",
+				"/Users/patze/Sites/homify/app/models/shared/sanitize_trait.rb",
+				"/Users/patze/Sites/homify/app/models/idea_book_photo.rb",
+				"/Users/patze/Sites/homify/app/models/idea_book.rb",
+				"/Users/patze/Sites/homify/config/locales/sg.yml",
+				"/Users/patze/Sites/homify/app/views/idea_book_photos/_form.html.haml",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/_quickfixes.sass",
+				"/Users/patze/Sites/homify/spec/support/shared_examples/sanitize_trait.rb",
+				"/Users/patze/Sites/homify/app/models/service_area.rb",
+				"/Users/patze/Sites/homify/app/models/shared/featurable_trait.rb",
+				"/Users/patze/Sites/homify/app/controllers/idea_books_controller.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/question_fancy.js",
+				"/Users/patze/Sites/homify/lib/tasks/migrate_photo_assets_to_cloudinary.rake",
+				"/Users/patze/Sites/homify/app/views/landing_page/load_more_idea_books.html.haml",
+				"/Users/patze/Sites/homify/config/locales/mx.yml",
+				"/Users/patze/Sites/homify/app/models/photo.rb",
+				"/Users/patze/Sites/homify/db/migrate/20150408094253_add_temp_cloudinary_to_all_models.rb",
+				"/Users/patze/Sites/homify/db/schema.rb",
+				"/Users/patze/Sites/homify/config/initializers/image_versions.rb",
+				"/Users/patze/Sites/homify/db/migrate/20141121102717_add_temporal_property_to_projects.rb",
+				"/Users/patze/Sites/homify/db/migrate/20140211120806_add_text_to_seo_elements.rb",
+				"/Users/patze/Sites/homify/features/photos/add_to_ideabook.feature",
+				"/Users/patze/Sites/homify/lib/icons/add.svg",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_de.js",
+				"/Users/patze/Sites/homify/config/application.rb",
+				"/Users/patze/Sites/homify/features/support/env.rb",
+				"/Users/patze/Sites/homify/app/uploaders/photo_image_uploader.rb",
+				"/Users/patze/Sites/homify/config/globals/test.yml",
+				"/Users/patze/Sites/homify/app/controllers/discussion_photos_controller.rb",
+				"/Users/patze/Sites/homify/app/uploaders/base_uploader.rb",
+				"/Users/patze/Sites/homify/app/uploaders/teaser_image_uploader.rb",
+				"/Users/patze/Sites/homify/app/uploaders/discussion_photo_uploader.rb",
+				"/Users/patze/Sites/homify/config/globals/production.yml",
+				"/Users/patze/Sites/homify/app/views/discussions/_root_discussion.html.haml",
+				"/Users/patze/Sites/homify/features/admin/company_root_categories.feature",
+				"/Users/patze/Sites/homify/app/models/company_root_category.rb",
+				"/Users/patze/Sites/homify/features/admin/users.feature",
+				"/Users/patze/Sites/homify/app/helpers/user_helper.rb",
+				"/Users/patze/Sites/homify/app/uploaders/avatar_uploader.rb",
+				"/Users/patze/Sites/homify/app/controllers/admin/photos_controller.rb",
+				"/Users/patze/Sites/homify/config/initializers/custom_cloud_uploader.rb",
+				"/Users/patze/Sites/homify/config/environment.rb",
+				"/Users/patze/Sites/homify/app/controllers/application_controller.rb",
+				"/Users/patze/Sites/homify/config/locales/en.yml",
+				"/Users/patze/Sites/homify/config.ru",
+				"/Users/patze/Sites/homify/db/migrate/20140110160147_substitute_umlaute_in_slugs.rb",
+				"/Users/patze/Sites/homify/lib/speaking_path_builder.rb",
+				"/Users/patze/Sites/homify/app/uploaders/homify_job_application_uploader.rb",
+				"/Users/patze/Sites/homify/app/models/shared/slug_trait.rb",
+				"/Users/patze/Sites/homify/config/locales/fr.yml",
+				"/Users/patze/Sites/homify/app/models/shared/calculate_user_activity_trait.rb",
+				"/Users/patze/Sites/homify/config/locales/pt.yml",
+				"/Users/patze/Sites/homify/lib/tasks/create_portrait_discussion_photos.rake",
+				"/Users/patze/Sites/homify/lib/tasks/map_product_categories.rake",
+				"/Users/patze/Sites/homify/app/mailers/devise_mailer.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/hash.rb",
+				"/Users/patze/Sites/homify/app/views/layouts/_header.html.haml",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/components/_header.sass",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/components/_header.md",
+				"/Users/patze/Sites/homify/app/views/layouts/_head.html.haml",
+				"/Users/patze/Sites/homify/config/locales/hk.yml",
+				"/Users/patze/Sites/homify/spec/spec_helper.rb",
+				"/Users/patze/Sites/homify/app/views/admin/plans/_form.html.haml",
+				"/Users/patze/Sites/homify/app/models/review_request/review_request_presenter.rb",
+				"/Users/patze/Dropbox/02_coding/Dropbox_homify/cloudinary_upload/zeug.rb",
+				"/Users/patze/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/patze/Sites/homify/app/models/impression.rb",
+				"/Users/patze/Sites/homify/config/locales/it.yml",
+				"/Users/patze/Sites/homify/spec/helpers/photo_helper_spec.rb",
+				"/Users/patze/Sites/homify/app/views/shared/photo/_photos_localized_js.html.erb",
+				"/Users/patze/Sites/homify/app/views/idea_books/index.html.haml",
+				"/Users/patze/Sites/homify/app/helpers/application_helper.rb",
+				"/Users/patze/Sites/homify/app/controllers/admin/idea_books_controller.rb",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/admin.css.sass",
+				"/Users/patze/Sites/homify/app/helpers/admin_helper.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/admin.js",
+				"/Users/patze/Sites/homify/features/project/admin.feature",
+				"/Users/patze/Sites/homify/db/migrate/20140213150729_add_default_meta_keywords_to_settings.rb",
+				"/Users/patze/Sites/homify/lib/image_cloud_uploader.rb",
+				"/Users/patze/Sites/homify/lib/sitemap_builder.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_ru.js",
+				"/Users/patze/Sites/homify/config/initializers/route_translator.rb",
+				"/Users/patze/Sites/homify/app/views/project/photos/_dynamic_form.html.haml",
+				"/Users/patze/Sites/homify/features/step_definitions/facebook_steps.rb",
+				"/Users/patze/Sites/homify/app/assets/stylesheets/foundation_and_overrides.scss",
+				"/Users/patze/Sites/homify/config/locales/de.yml",
+				"/Users/patze/Sites/homify/config/environments/test.rb",
+				"/Users/patze/Sites/homify/config/globals/staging.yml",
+				"/Users/patze/Sites/homify/config/environments/staging.rb",
+				"/Users/patze/Sites/homify/config/deploy/staging.rb",
+				"/Users/patze/Sites/homify/config/deploy/production.rb",
+				"/Users/patze/Sites/homify/config/skylight.yml",
+				"/Users/patze/Sites/homify/config/locales/tr.yml",
+				"/Users/patze/Sites/homify/config/globals/development.yml",
+				"/Users/patze/Sites/homify/config/environments/development.rb",
+				"/Users/patze/Sites/homify/config/locales/ar.yml",
+				"/Users/patze/Sites/homify/config/locales/br.yml",
+				"/Users/patze/Sites/homify/config/locales/es.yml",
+				"/Users/patze/Sites/homify/config/locales/in.yml",
+				"/Users/patze/Sites/homify/config/locales/jp.yml",
+				"/Users/patze/Sites/homify/config/locales/kr.yml",
+				"/Users/patze/Sites/homify/config/locales/nl.yml",
+				"/Users/patze/Sites/homify/config/locales/pl.yml",
+				"/Users/patze/Sites/homify/lib/middleware/locale_detector.rb",
+				"/Users/patze/Sites/homify/app/assets/javascripts/application_ar.js",
+				"/Users/patze/Sites/homify/app/views/layouts/application.html.haml"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"*.rb",
+					"",
+					"*.rb",
+					"",
+					"*.scss",
+					".scss",
+					"",
+					"*.sass",
+					"",
+					"/Users/patze/Sites/homify/spec",
+					"",
+					"/Users/patze/Sites/homify/features",
+					"",
+					"*.haml",
+					"",
+					"*.ym",
+					"*.yml",
+					"",
+					"*.haml",
+					"*-haml",
+					"",
+					"*.yml",
+					"",
+					"*.haml",
+					"",
+					"*.sass",
+					".sass",
+					"",
+					"*.erb",
+					"",
+					".yml",
+					"",
+					"*.haml",
+					"",
+					"*.haml",
+					"",
+					"*.rb",
+					"",
+					"*.rb",
+					".rb",
+					"",
+					"*.rb",
+					"",
+					"/Users/patze/Sites/homify/features/step_definitions",
+					"",
+					"/Users/patze/Sites/homify/features/step_definitions",
+					"/Users/patze/Sites/homify/features",
+					"/Users/patze/Sites/homify/features/step_definitions",
+					"/Users/patze/Sites/homify/features/step_definitons",
+					"/Users/patze/Sites/homify/features",
+					"",
+					"/Users/patze/Sites/homify/features/step_definitions",
+					"/step_definitions",
+					"",
+					"*.rb",
+					".rb",
+					"",
+					"*.rb",
+					"",
+					"/Users/patze/Sites/mnd/mynewsdesk, -/Users/patze/Sites/mnd/network-frontend/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*, -/Users/patze/Sites/mnd/network-frontend/vendor/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/Users/patze/Sites/mnd/network-frontend/dist",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/mnd/network-frontend,-/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/dist/*",
+					"/Users/patze/Sites/mnd/network-frontend, -/dist",
+					"/Users/patze/Sites/mnd/network-frontend",
+					"/Users/patze/Sites/dev/ron",
+					"/Users/patze/Sites/jo",
+					"/Users/patze/Sites/artconnect",
+					"/Users/patze/Sites/artconnect/app/views",
+					"/Users/patze/Sites/artconnect",
+					"/Users/patze/Sites/dev/rdb",
+					"<open files>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"cloudfront",
+					"cloudfri",
+					"end",
+					"i154",
+					"miro",
+					"calcu",
+					"set_main_colors",
+					"calcu",
+					"miro",
+					"cover_photo_color",
+					"color_",
+					"color",
+					"miro",
+					"abc",
+					"letter",
+					"file_url",
+					"Miro",
+					"cover_photo_color",
+					"def cover_photo_color",
+					"cover_photo_color",
+					"hex",
+					"color",
+					"calculate_color_and_size",
+					".calculate_size",
+					"calculate_size",
+					"original_height",
+					"ProcessProfilePhotoBackgroundColorWorker",
+					"queue_background_color_processing",
+					"color",
+					"mount_custom_image_uploader",
+					"klass",
+					"klass_name",
+					"], [",
+					", ",
+					"c[0] << 16",
+					"huhu",
+					"klass",
+					"**",
+					".url",
+					"retina_image_tag",
+					".url",
+					"retina_image_tag",
+					"retina_image_tag img",
+					"retina_image",
+					"homify",
+					"PhotoImageProcessorWorker",
+					"queue_processing",
+					"update_counter_cache",
+					"PhotoCounterCacheWorker",
+					"does 'sanitize', :description",
+					"description",
+					"attribute_name :",
+					"does 'sanitize', :description",
+					"extra_tags_allowed",
+					"unfeature",
+					"unfeature!",
+					"unfeature",
+					"extra_tags_allowed",
+					"edit-ideabook-photos--item-content",
+					", [",
+					"color_",
+					"calculate_colors",
+					"image",
+					"calculate_size",
+					"file_url",
+					"colors",
+					"get_image",
+					"ProcessProfilePhotoBackgroundColorWorker",
+					"queue_background_color_processing",
+					"PhotoImageProcessorWorker",
+					"def queue_processing",
+					"column_string",
+					"check_and_cache_file",
+					"is_a_string",
+					"is_pre_uploading",
+					"mounted_column_present",
+					".url",
+					"image_tag",
+					"index_taggings_on_tag_id",
+					"add_index",
+					".image.url",
+					"retina_im",
+					"string",
+					"ALL_VERSIONS__TEASER",
+					"TeaserImageUploader",
+					"sq",
+					"rescue",
+					"try",
+					"catch",
+					"raise",
+					"cache_file",
+					"column_for",
+					"self.id :",
+					"column :",
+					"name",
+					"build_resource",
+					"def build_resource",
+					"build_resource",
+					"BASEUPLOADER",
+					"tags:",
+					"homify-upload",
+					"base_tag",
+					"cloudinary",
+					"skylight",
+					"carrierwave_uploader_class.name",
+					"def default_img",
+					"default_img",
+					"\"",
+					"mount_",
+					"ALL_IMAGE_VERSIONS",
+					"column",
+					"handle_cloud_upload",
+					"send",
+					"ALL_VERSIONS__PHOTOS",
+					"single_version",
+					"clearfix",
+					"ALL_VERSIONS__AVATAR",
+					":",
+					"devise_for",
+					"transform",
+					"}",
+					"{",
+					":",
+					"i72x72",
+					".avatar",
+					"img_class",
+					"i556x376",
+					"w400"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"homify",
+					"show_idea_book",
+					"show_project_photo",
+					"'mailer.",
+					"action_buttons_expert",
+					"",
+					"href=\"mailto:",
+					"<p>",
+					"",
+					".png\"",
+					"muxxi",
+					"contact"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"follow_symlinks": true,
+					"path": "/Users/patze/Sites/homify"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/patze/Sites/homify/app/models/photo.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12483,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10690,
+										10690
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 4808.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/patze/Sites/homify/config/globals/staging.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10971,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8259,
+										8259
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 3174.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/patze/Sites/homify/lib/image_cloud_uploader.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1435,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										903,
+										903
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 71.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/patze/Sites/homify/app/helpers/application_helper.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31209,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										533,
+										533
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/patze/Sites/homify/lib/tasks/migrate_photo_assets_to_cloudinary.rake",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 595,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										595,
+										595
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/Users/patze/Sites/homify/config/initializers/custom_image_uploader.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6614,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5417,
+										5417
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Ruby/Ruby.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1724.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/patze/Sites/homify/app/views/project/photos/_dynamic_form.html.haml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8016,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										172,
+										172
+									],
+									[
+										216,
+										216
+									],
+									[
+										250,
+										250
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 30.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.463276922956,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 110.0
+			},
+			"output.find_results":
+			{
+				"height": 311.0
+			},
+			"output.run_result":
+			{
+				"height": 379.0
+			},
+			"position": "0 0 4 1680 1024 0 0 1680 1028 ",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"prof",
+						"app/models/professional.rb"
+					],
+					[
+						"user",
+						"app/models/user.rb"
+					],
+					[
+						"usercon",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"gem",
+						"Gemfile"
+					],
+					[
+						"clo",
+						"config/cloudinary.yml"
+					],
+					[
+						"sa",
+						"app/models/shared/sanitize_trait.rb"
+					],
+					[
+						"sani",
+						"app/models/shared/sanitize_trait.rb"
+					],
+					[
+						"quick",
+						"app/assets/stylesheets/_quickfixes.sass"
+					],
+					[
+						"migrate",
+						"lib/tasks/migrate_photo_assets_to_cloudinary.rake"
+					],
+					[
+						"addtem",
+						"db/migrate/20150408094253_add_temp_cloudinary_to_photos.rb"
+					],
+					[
+						"root",
+						"app/views/discussions/_root_discussion.html.haml"
+					],
+					[
+						"oject/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"env",
+						"config/environment.rb"
+					],
+					[
+						"appc",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"en",
+						"config/environment.rb"
+					],
+					[
+						"conf",
+						"config.ru"
+					],
+					[
+						"rout",
+						"config/routes.rb"
+					],
+					[
+						"us",
+						"app/models/user.rb"
+					],
+					[
+						"user.",
+						"app/models/user.rb"
+					],
+					[
+						"bas",
+						"app/uploaders/base_uploader.rb"
+					],
+					[
+						"spe",
+						"lib/speaking_path_builder.rb"
+					],
+					[
+						"phoub",
+						"app/uploaders/photo_image_uploader.rb"
+					],
+					[
+						"roject/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"header",
+						"app/views/layouts/_header.html.haml"
+					],
+					[
+						"head",
+						"app/views/layouts/_head.html.haml"
+					],
+					[
+						"imagecl",
+						"lib/image_cloud_uploader.rb"
+					],
+					[
+						"apphe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"photo",
+						"app/uploaders/photo_image_uploader.rb"
+					],
+					[
+						"photr",
+						"app/models/photo.rb"
+					],
+					[
+						"r",
+						"config/routes.rb"
+					],
+					[
+						"rot",
+						"config/initializers/route_translator.rb"
+					],
+					[
+						"dyn",
+						"app/views/project/photos/_dynamic_form.html.haml"
+					],
+					[
+						"stagi",
+						"config/globals/staging.yml"
+					],
+					[
+						"prod",
+						"config/globals/production.yml"
+					],
+					[
+						"tes",
+						"config/globals/test.yml"
+					],
+					[
+						"test",
+						"config/environments/test.rb"
+					],
+					[
+						"dev",
+						"config/globals/development.yml"
+					],
+					[
+						"app",
+						"config/application.rb"
+					],
+					[
+						"de",
+						"config/locales/de.yml"
+					],
+					[
+						"dynamic_form.html",
+						"app/views/project/photos/_dynamic_form.html.haml"
+					],
+					[
+						"loc",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"photosc",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"appli",
+						"config/application.rb"
+					],
+					[
+						"appr",
+						"app/assets/javascripts/application_ru.js"
+					],
+					[
+						"ge",
+						"Gemfile"
+					],
+					[
+						"base",
+						"app/uploaders/base_uploader.rb"
+					],
+					[
+						"ava",
+						"app/uploaders/avatar_uploader.rb"
+					],
+					[
+						"hoto",
+						"app/models/photo.rb"
+					],
+					[
+						"pho",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"ct/photos_controller.rb",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"avat",
+						"app/uploaders/avatar_uploader.rb"
+					],
+					[
+						"idea_book_photo.html.haml",
+						"app/views/idea_book_photos/_idea_book_photo.html.haml"
+					],
+					[
+						"local",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"speis",
+						"app/views/admin/_speisen.html.haml"
+					],
+					[
+						"haupt",
+						"app/views/admin/haupt.html.haml"
+					],
+					[
+						"ud",
+						"app/views/admin/update_mittag.haml"
+					],
+					[
+						"must",
+						"db/migrate/20140116178547_add_autodeactivate_to_closed_events.rb"
+					],
+					[
+						"adm",
+						"app/controllers/admin_controller.rb"
+					],
+					[
+						"appco",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"foot",
+						"app/views/layouts/_footer.html.haml"
+					],
+					[
+						"photc",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"phot",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"capy",
+						"features/support/capybara.rb"
+					],
+					[
+						"photoscon",
+						"app/controllers/project/photos_controller.rb"
+					],
+					[
+						"projetile",
+						"app/views/shared/projects/_project_tile.html.haml"
+					],
+					[
+						"cap",
+						"features/support/capybara.rb"
+					],
+					[
+						"eatures/step_definitions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"lock",
+						"Gemfile.lock"
+					],
+					[
+						"gemf",
+						"Gemfile.lock"
+					],
+					[
+						"teaserimageuploader",
+						"app/uploaders/teaser_image_uploader.rb"
+					],
+					[
+						"rode",
+						"config/locales/routes.de.yml"
+					],
+					[
+						"applco",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"loca",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"sp",
+						"lib/speaking_path_builder.rb"
+					],
+					[
+						"ro",
+						"config/routes.rb"
+					],
+					[
+						"commentcre",
+						"app/views/user_mailer/send_comment_created.html.haml"
+					],
+					[
+						"disscomcr",
+						"app/views/user_mailer/send_discussion_comment_created.html.haml"
+					],
+					[
+						"disscrea",
+						"app/views/user_mailer/send_discussion_created.html.haml"
+					],
+					[
+						"revc",
+						"app/views/user_mailer/send_review_created.html.haml"
+					],
+					[
+						"disscomc",
+						"app/views/user_mailer/send_discussion_comment_created.html.haml"
+					],
+					[
+						"apphel",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"appcont",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"send",
+						"app/views/user_mailer/send_discussion_created.html.haml"
+					],
+					[
+						"rese",
+						"app/views/devise/mailer/reset_password_instructions.html.haml"
+					],
+					[
+						"apphelp",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"es/support/paths.rb",
+						"features/support/paths.rb"
+					],
+					[
+						"itions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"applhe",
+						"app/helpers/application_helper.rb"
+					],
+					[
+						"applcon",
+						"app/controllers/application_controller.rb"
+					],
+					[
+						"maifoo",
+						"app/views/shared/mailer/_footer.html.haml"
+					],
+					[
+						"welcome",
+						"app/views/user_mailer/send_profile_completion_reminder.html.haml"
+					],
+					[
+						"simp",
+						"app/views/shared/mailer/_simple_footer.html.haml"
+					],
+					[
+						"sendre",
+						"app/views/user_mailer/send_review_created.html.haml"
+					],
+					[
+						"pathhelper",
+						"app/helpers/path_helper.rb"
+					],
+					[
+						"upport/paths.rb",
+						"features/support/paths.rb"
+					],
+					[
+						"user_mailer.rb",
+						"app/mailers/user_mailer.rb"
+					],
+					[
+						"ers/idea_book_photos_controller.rb",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"web",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"git",
+						".gitignore"
+					],
+					[
+						"use",
+						"app/mailers/user_mailer.rb"
+					],
+					[
+						"elpers/admin_helper.rb",
+						"app/helpers/admin_helper.rb"
+					],
+					[
+						"admin/comments/index.html.haml",
+						"app/views/admin/comments/index.html.haml"
+					],
+					[
+						"rou",
+						"config/routes.rb"
+					],
+					[
+						"idea_book_photos",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"proj",
+						"app/controllers/projects_controller.rb"
+					],
+					[
+						"/step_definitions/web_steps.rb",
+						"features/step_definitions/web_steps.rb"
+					],
+					[
+						"features/admin/comments.feature",
+						"features/admin/comments.feature"
+					],
+					[
+						"appl",
+						"app/views/layouts/application.html.haml"
+					],
+					[
+						"speaking_path_builder.rb",
+						"lib/speaking_path_builder.rb"
+					],
+					[
+						"ideabookphotoscontroller",
+						"app/controllers/idea_book_photos_controller.rb"
+					],
+					[
+						"rouar",
+						"config/locales/routes.ar.yml"
+					],
+					[
+						"rofr",
+						"config/locales/routes.fr.yml"
+					],
+					[
+						"roen",
+						"config/locales/routes.en.yml"
+					],
+					[
+						"static",
+						"app/views/layouts/_static_links.html.haml"
+					],
+					[
+						"foo",
+						"app/views/layouts/_footer.html.haml"
+					],
+					[
+						"robr",
+						"config/locales/routes.br.yml"
+					],
+					[
+						"pro",
+						"config/environments/production.rb"
+					],
+					[
+						"lo",
+						"lib/middleware/locale_detector.rb"
+					],
+					[
+						"userc",
+						"app/controllers/users_controller.rb"
+					],
+					[
+						"routede",
+						"config/locales/routes.de.yml"
+					],
+					[
+						"icons",
+						"lib/tasks/icons.rake"
+					],
+					[
+						"signup-expert.sass",
+						"app/assets/stylesheets/views/_signup-expert.sass"
+					],
+					[
+						"sta",
+						"config/environments/staging.rb"
+					],
+					[
+						"shaba",
+						"app/views/shared/_badges.html.haml"
+					],
+					[
+						"frbad",
+						"app/views/static/fr/badges.html.haml"
+					],
+					[
+						"depl",
+						"config/deploy.rb"
+					],
+					[
+						"tr",
+						"config/locales/tr.yml"
+					],
+					[
+						"sg",
+						"config/locales/sg.yml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"selected_items":
+				[
+					[
+						"ma",
+						"/Users/patze/Sites/dev/madels/madels.sublime-project"
+					],
+					[
+						"art",
+						"/Users/patze/Sites/dev/jukebox/artconnect.sublime-project"
+					],
+					[
+						"jo",
+						"/Users/patze/Sites/jo/jo.sublime-project"
+					],
+					[
+						"p",
+						"/Users/patze/Sites/pictrs/pictrs.sublime-project"
+					],
+					[
+						"",
+						"/Users/patze/Sites/dev/ao/ao.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+				],
+				"width": 493.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 274.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 592,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{

@@ -4,18 +4,22 @@
 	],
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"Better CoffeeScript",
 		"Git",
 		"GitGutter",
 		"Handlebars",
 		"Increment Selection",
+		"Maybs Quit",
 		"Origami",
 		"Package Control",
 		"Ruby Slim",
 		"Sass",
+		"SFTP",
 		"SideBarEnhancements",
 		"Text Pastry",
 		"Theme - Soda SolarizedDark",
-		"Theme - Spacegray"
+		"Theme - Spacegray",
+		"Vintageous"
 	]
 }

@@ -47,13 +47,16 @@
 	],
 	"font_size": 12,
 	"git_binary": "/usr/bin/git",
+	"highlight_line": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
-		"TrailingSpaces",
+		"Vintageous",
 		"Vintage",
+		"TrailingSpaces",
+		"Color Highlighter",
 		"SideBarGit",
-		"LiveReload",
-		"Color Highlighter"
+		"LiveReload"
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
